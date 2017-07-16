@@ -1,6 +1,9 @@
 # Kodansha-KanjiSearch
 The Kanji search desktop application for Kodansha Kanji Learners Course.
-This is the desktop version. To use the web-based version go here: [RetraZil's web version](https://retrazil.github.io/kanji_order/)
+<br>
+This is the desktop version. 
+
+To use the web-based version go here: [RetraZil's web version](https://retrazil.github.io/kanji_order/)
 
 Download Setup here: ![Link](https://github.com/soulxhacker/Kodansha-KanjiSearch/releases)
 
