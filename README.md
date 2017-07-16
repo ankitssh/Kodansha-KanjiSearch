@@ -16,11 +16,11 @@ Download Setup here: ![Link](https://github.com/soulxhacker/Kodansha-KanjiSearch
 * Get meaning, onyomi, kunyomi, and page numbers of Kanji instantly.
 * Search your previously searched Kanji easily using the History tab.
 
-* The project has been created in Visual Studio 2012. The C# solution contains two projects: JSON_SerDe and Kodansha Kanji Search(main proj)
+### The project has been created in Visual Studio 2012. The C# solution contains two projects: JSON_SerDe and Kodansha Kanji Search(main proj)
 
-* JSON_SerDe was intially used to convert(serialize) the kanji data file into a JSON file. In this project, it is used to deserialize the JSON file for use in the Kodansha Kanji Search project. 
+###  JSON_SerDe was intially used to convert(serialize) the kanji data file into a JSON file. In this project, it is used to deserialize the JSON file for use in the Kodansha Kanji Search project. 
 
-* The GUI is uses a material design library called [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin).
+###  The GUI is uses a material design library called [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin).
 
 
 
