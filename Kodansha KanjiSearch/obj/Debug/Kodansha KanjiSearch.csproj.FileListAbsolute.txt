@@ -1,0 +1,13 @@
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Debug\Kodansha KanjiSearch.exe.config
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Debug\Kodansha KanjiSearch.exe
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Debug\Kodansha KanjiSearch.pdb
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Debug\Kodansha KanjiSearch.csprojResolveAssemblyReference.cache
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Debug\Kodansha_KanjiSearch.Properties.Resources.resources
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Debug\Kodansha KanjiSearch.csproj.GenerateResource.Cache
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Debug\Kodansha KanjiSearch.exe
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Debug\Kodansha KanjiSearch.pdb
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Debug\JSON SerDe.exe
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Debug\JSON SerDe.pdb
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Debug\MaterialSkin.dll
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Debug\Kodansha_KanjiSearch.KanjiSearchUI.resources
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Debug\RichTextBoxLinks.dll

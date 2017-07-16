@@ -1,0 +1,16 @@
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Release\Kodansha KanjiSearch.exe.config
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Release\Kodansha KanjiSearch.exe
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Release\Kodansha KanjiSearch.pdb
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Release\JSON SerDe.exe
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Release\MaterialSkin.dll
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Release\JSON SerDe.pdb
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Release\Kodansha KanjiSearch.csprojResolveAssemblyReference.cache
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Release\Kodansha_KanjiSearch.KanjiSearchUI.resources
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Release\Kodansha_KanjiSearch.Properties.Resources.resources
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Release\Kodansha KanjiSearch.csproj.GenerateResource.Cache
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Release\Kodansha KanjiSearch.exe
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Release\Kodansha KanjiSearch.pdb
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Release\Kodansha KanjiSearch.exe.manifest
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\bin\Release\Kodansha KanjiSearch.application
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Release\Kodansha KanjiSearch.exe.manifest
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\Kodansha KanjiSearch\obj\Release\Kodansha KanjiSearch.application

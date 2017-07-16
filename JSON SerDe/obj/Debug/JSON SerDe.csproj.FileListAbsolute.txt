@@ -1,0 +1,7 @@
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\JSON SerDe\bin\Debug\JSON SerDe.exe.config
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\JSON SerDe\bin\Debug\JSON SerDe.exe
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\JSON SerDe\bin\Debug\JSON SerDe.pdb
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\JSON SerDe\obj\Debug\JSON SerDe.csprojResolveAssemblyReference.cache
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\JSON SerDe\obj\Debug\JSON SerDe.exe
+c:\users\anki\documents\visual studio 2012\Projects\Kodansha KanjiSearch\JSON SerDe\obj\Debug\JSON SerDe.pdb
+C:\Users\Anki\Documents\Visual Studio 2012\Projects\Kodansha KanjiSearch\JSON SerDe\bin\Debug\MaterialSkin.dll

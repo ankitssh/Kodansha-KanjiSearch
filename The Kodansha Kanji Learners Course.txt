@@ -1,0 +1,2301 @@
+﻿Id	Kanji	Meaning	Onyomi	Kunyomi	PageNo
+1	日	SUN ・ DAY ・ JAPAN	ニチ ・ ジツ	ひ ・ -び ・ -か	33
+2	一	ONE	イチ ・ イツ	ひと- ・ ひと.つ	33
+3	二	TWO	ニ	ふた ・ ふた.つ	33
+4	三	THREE	サン	み ・ み.つ ・ みっ.つ	33
+5	十	TEN	ジュウ ・ ジッ-	とお ・ と	34
+6	四	FOUR	シ	よ ・ よ.つ ・ よっ.つ ・ よん	34
+7	五	FIVE	ゴ	いつ ・ いつ.つ	34
+8	六	SIX	ロク	む ・ む.つ ・ むっ.つ ・ むい	34
+9	七	SEVEN	シチ	なな ・ なな.つ ・ なの	35
+10	八	EIGHT	ハチ	や ・ や.つ ・ やっ.つ ・ よう	35
+11	九	NINE	キュウ ・ ク	ここの ・ ここの.つ	35
+12	丸	ROUND	ガン	まる ・ まる.い ・ まる.める	35
+13	円	CIRCLE ・ YEN	エン	まる.い ・ まる	36
+14	○	ZERO ・ CIRCLE MARK	レイ	ぜろ ・ まる	36
+15	人	HUMAN BEING	ジン ・ ニン	ひと	36
+16	百	HUNDRED	ヒャク		36
+17	千	THOUSAND	セン	ち	37
+18	万	TEN THOUSAND	マン ・ バン		37
+19	口	MOUTH	コウ ・ ク	くち	37
+20	田	RICE FIELD	デン	た	37
+21	目	EYE ・ ITEM	モク ・ ボク	め ・ -め ・ ま-	38
+22	川	RIVER	セン	かわ	38
+23	月	MOON ・ MONTH	ゲツ ・ ガツ	つき	38
+24	明	BRIGHT ・ CLEAR	メイ ・ ミョウ	あ.かり ・ あか.るい ・ あか.るむ ・ あか.らむ ・ あき.らか ・ あ.ける ・ -あ.け ・ あ.く ・ あ.くる ・ あ.かす	38
+25	曜	DAY OF THE WEEK	ヨウ		39
+26	火	FIRE	カ	ひ ・ -び ・ ほ-	39
+27	水	WATER	スイ	みず ・ みず-	39
+28	木	TREE ・ WOOD	モク ・  ボク	き ・ こ-	39
+29	金	METAL ・ GOLD ・ MONEY	キン ・ コン	かね ・ かな- ・ -がね	40
+30	土	SOIL	ド ・ ト	つち	40
+31	本	BASIS ・ BOOK ・ THIS	ホン	もと	40
+32	東	EAST	トウ	ひがし	40
+33	大	BIG ・ UNIVERSITY	ダイ ・ タイ	おお- ・ おお.きい ・ おお.いに	41
+34	小	SMALL	ショウ	ちい.さい ・ こ- ・ お-	41
+35	中	MIDDLE ・ IN ・ CHINA	チュウ ・ ジュウ	なか	41
+36	生	LIFE ・ BE BORN ・ STUDENT	セイ ・ ショウ	い.きる ・ い.かす ・ い.ける ・ う.まれる ・ う.まれ ・ うまれ ・ う.む ・ お.う ・ は.える ・ は.やす ・ き ・ なま ・ なま-	41
+37	山	MOUNTAIN	サン	やま	42
+38	出	GO OUT ・ PUT OUT	シュツ ・ スイ	で.る ・ -で ・ だ.す ・ -だ.す	42
+39	入	ENTER ・ PUT IN	ニュウ	い.る ・ -い.る ・ -い.り ・ い.れる ・ -い.れ ・ はい.る	42
+40	下	DOWN	カ ・ ゲ	した ・ しも ・ もと ・ さ.げる ・ さ.がる ・ くだ.る ・ くだ.り ・ くだ.す ・ -くだ.す ・ くだ.さる ・ お.ろす ・ お.りる	42
+41	上	UP	ジョウ ・ ショウ	うえ ・ -うえ ・ うわ- ・ かみ ・ あ.げる ・ -あ.げる ・ あ.がる ・ -あ.がる ・ あ.がり ・ -あ.がり ・ のぼ.る ・ のぼ.り ・ のぼ.せる ・ のぼ.す ・	43
+42	止	STOP	シ	と.まる ・ -ど.まり ・ と.める ・ -と.める ・ -ど.め ・ や.める* ・ や.む*	43
+43	正	RIGHT	セイ ・ ショウ	ただ.しい ・ ただ.す ・ まさ ・ まさ.に	43
+44	足	FOOT ・ SUFFICE	ソク	あし ・ た.りる ・ た.る ・ た.す	43
+45	定	FIX	テイ ・ ジョウ	さだ.める ・ さだ.まる ・ さだ.か	44
+46	手	HAND ・ PERFORMER OF AN ACTION	シュ	て ・ て- ・ -て ・ た-	44
+47	用	EMPLOY ・ THINGS TO DO	ヨウ	もち.いる	44
+48	無	WITHOUT ・ NOTHING	ム ・ ブ	な.い	44
+49	不	NOT	フ ・ ブ		45
+50	回	TURN ROUND ・ TIME	カイ ・ エ	まわ.る ・ -まわ.る ・ -まわ.り ・ まわ.す ・ -まわ.す ・ まわ.し- ・ -まわ.し	45
+51	言	SAY ・ SPEECH	ゲン ・ ゴン	い.う ・ こと	45
+52	舌	TONGUE	ゼツ	した	45
+53	話	SPEAK	ワ	はな.す ・ はなし	46
+54	活	ACTIVE ・ LIVE	カツ		46
+55	行	GO ・ ACT ・ LINE	コウ ・ ギョウ ・ アン	い.く ・ ゆ.く ・ -ゆ.き ・ -ゆき ・ -い.き ・ -いき ・ おこな.う	46
+56	心	HEART	シン	こころ ・ -ごころ	46
+57	耳	EAR	ジ	みみ	47
+58	又	AGAIN ・ OR		また ・ また- ・ また.の-	47
+59	取	TAKE	シュ	と.る ・ と.り ・ と.り-とり- ・ -ど.り	47
+60	身	BODY ・ ONE'S PERSON ・ SOCIAL POSITION	シン	み	47
+61	休	REST	キュウ	やす.む ・ やす.まる ・ やす.める	48
+62	体	BODY ・ FORM	タイ ・ テイ	からだ	48
+63	信	BELIEVE ・ MESSAGE	シン		48
+64	付	ATTACH	フ	つ.ける ・ -つ.ける ・ -ず.ける ・ つ.け ・ つ.け- ・ -つ.け ・ -ず.け ・ -ずけ ・ つ.く ・ -ず.く ・ つ.き ・ -つ.き ・ -つき ・ -ず.き ・ -ずき	48
+65	受	RECEIVE	ジュ	う.ける ・ -う.け ・ う.かる	49
+66	以	TO THE...OF ・ BY MEANS OF	イ	もっ.て*	49
+67	立	STAND ・ ESTABLISH	リツ ・ リュウ	た.つ ・ -た.つ ・ た.ち- ・ た.てる ・ -た.てる ・ た.て- ・ たて- ・ -た.て ・ -だ.て ・ -だ.てる	49
+68	部	SECTION	ブ		49
+69	倍	TIMES ・ DOUBLE	バイ		50
+70	成	BECOME ・ ACHIEVE	セイ ・ ジョウ	な.る ・ な.す ・ -な.す	50
+71	代	REPLACE ・ GENERATION ・ CHARGE	ダイ ・ タイ	か.わる ・ か.わり ・ -が.わり ・ か.える ・ よ ・ しろ	50
+72	王	KING	オウ		50
+73	玉	GEM	ギョク	たま ・ たま- ・ -だま	51
+74	宝	TREASURE	ホウ	たから	51
+75	国	COUNTRY	コク	くに	51
+76	白	WHITE	ハク ・ ビャク	しろ ・ しら- ・ しろ.い	51
+77	皇	EMPEROR	コウ ・ オウ		52
+78	全	WHOLE	ゼン	まった.く ・ すべ.て	52
+79	書	WRITE ・ BOOK	ショ	か.く ・ -が.き ・ -がき	52
+80	事	AFFAIR ・ ABSTRACT THING	ジ ・ ズ	こと	52
+81	自	SELF	ジ ・ シ	みずか.ら ・ おの.ずから*	53
+82	貝	SHELLFISH		かい	53
+83	見	SEE	ケン	み.る ・ み.える ・ み.せる	53
+84	力	POWER	リョク ・ リキ	ちから	53
+85	刀	SWORD	トウ	かたな	54
+86	切	CUT	セツ ・ サイ	き.る ・ -き.る ・ き.り ・ -き.り ・ -ぎ.り ・ き.れる ・ -き.れる ・ き.れ ・ -き.れ ・ -ぎ.れ	54
+87	刃	BLADE	ジン	は	54
+88	分	DIVIDE ・ PART ・ MINUTE	ブン ・ フン ・ ブ	わ.ける ・ わ.け ・ わ.かれる ・ わ.かる ・ わ.かつ	54
+89	公	PUBLIC	コウ	おおやけ	55
+90	別	SEPARATE ・ ANOTHER	ベツ	わか.れる	55
+91	長	LONG ・ CHIEF	チョウ	なが.い	55
+92	男	MAN	ダン ・ ナン	おとこ	55
+93	女	WOMAN	ジョ ・ ニョ ・ ニョウ	おんな ・ め	56
+94	子	CHILD ・ NOUN SUFFIX	シ ・ ス	こ ・ -こ ・ -.っこ	56
+95	好	LIKE ・ FAVORABLE	コウ	この.む ・ す.く ・ よ.い* ・ い.い*	56
+96	安	PEACEFUL ・ INEXPENSIVE	アン	やす.い ・ やす.まる ・ やす ・ やす.らか	56
+97	案	PROPOSAL	アン		57
+98	字	CHARACTER	ジ	あざ	57
+99	学	STUDY ・ EDUCATIONAL INSTITUTION	ガク	まな.ぶ	57
+100	父	FATHER	フ	ちち	57
+101	文	WRITINGS ・ LETTER	ブン ・ モン	ふみ	58
+102	交	INTERCOURSE ・ CROSS	コウ	まじ.わる ・ まじ.える ・ ま.じる ・ ま.ざる ・ ま.ぜる ・ -か.う ・ か.わす	58
+103	校	SCHOOL ・ PROOFREAD	コウ		58
+104	母	MOTHER	ボ	はは	58
+105	毎	EVERY	マイ	-ごと.に*	59
+106	海	SEA	カイ	うみ	59
+107	者	PERSON	シャ	もの	59
+108	工	MANUFACTURE ・ CONSTRUCTION	コウ ・ ク		59
+109	式	FORM ・ CEREMONY ・ FORMULA	シキ		60
+110	弐	TWO	ニ		60
+111	武	MILITARY	ブ ・ ム		60
+112	糸	THREAD	シ	いと	60
+113	前	BEFORE	ゼン	まえ ・ -まえ	61
+114	後	AFTER	ゴ ・ コウ	のち ・ うし.ろ ・ うしろ ・ あと ・ おく.れる	61
+115	午	NOON ・  THE HORSE	ゴ		61
+116	牛	CATTLE	ギュウ	うし	61
+117	年	YEAR	ネン	とし	62
+118	件	MATTER	ケン		62
+119	条	ARTICLE	ジョウ		62
+120	化	CHANGE INTO	カ ・ ケ	ば.ける ・ ば.かす	62
+121	花	FLOWER	カ	はな	63
+122	北	NORTH	ホク	きた	63
+123	比	COMPARE ・ PHONETIC [HI]	ヒ	くら.べる	63
+124	背	BACK	ハイ	せ ・ せい ・ そむ.く ・ そむ.ける	63
+125	車	VEHICLE ・ WHEEL	シャ	くるま	64
+126	気	GAS ・ SPIRIT	キ ・ ケ		64
+127	汽	STEAM	キ		64
+128	性	NATURE ・ SEX ・ -ITY	セイ ・ ショウ		64
+129	畑	FIELD		はた ・ はたけ ・ -ばたけ	65
+130	青	BLUE	セイ ・ ショウ	あお ・ あお- ・ あお.い	65
+131	麦	WHEAT	バク	むぎ	65
+132	素	ELEMENT ・ PLAIN	ソ ・ ス		65
+133	毒	POISON	ドク		66
+134	先	AHEAD	セン	さき ・ ま.ず*	66
+135	洗	WASH	セン	あら.う	66
+136	元	ORIGIN	ゲン ・ ガン	もと	66
+137	光	LIGHT	コウ	ひか.る ・ ひかり	67
+138	去	GO AWAY	キョ ・ コ	さ.る ・ -さ.る	67
+139	法	LAW ・ METHOD	ホウ ・ ハッ- ・ ホッ-		67
+140	走	RUN	ソウ	はし.る	67
+141	当	THE PRESENT ・ HIT	トウ	あ.たる ・ あ.たり ・ あ.てる ・ あ.て	68
+142	思	THINK	シ	おも.う	68
+143	早	EARLY ・ QUICK	ソウ ・ サッ-	はや.い ・ はや ・ はや- ・ はや.まる ・ はや.める	68
+144	草	GRASS	ソウ	くさ ・ くさ- ・ -ぐさ	68
+145	朝	MORNING ・ DYNASTY	チョウ	あさ	69
+146	潮	TIDE	チョウ	しお	69
+147	形	SHAPE	ケイ ・ ギョウ	かた ・ -がた ・ かたち	69
+148	発	OPEN UP ・ EMIT ・ START	ハツ ・ ホツ	た.つ*	69
+149	廃	ABANDON ・ WASTE	ハイ	すた.れる	70
+150	音	SOUND	オン ・ イン	おと ・ ね	70
+151	意	MIND ・ MEANING	イ		70
+152	作	MAKE ・ WORK	サク ・ サ	つく.る ・ つく.り ・ -ずく.り	70
+153	昨	YESTERDAY ・ LAST	サク		71
+154	雨	RAIN	ウ	あめ ・ あま-	71
+155	電	ELECTRICITY	デン		71
+156	頁	PAGE	ケツ ページ	ページ	71
+157	首	HEAD ・ NECK ・ LEADER	シュ	くび	72
+158	道	WAY	ドウ ・ トウ	みち	72
+159	通	PASS ・ COMMUNICATE	ツウ ・ ツ	とお.る ・ とお.り ・ -とお.り ・ -どお.り ・ とお.す ・ とお.し ・ -どお.し ・ かよ.う	72
+160	乳	MILK	ニュウ	ちち ・ ち	72
+161	豆	BEAN	トウ ・ ズ	まめ ・ まめ-	73
+162	頭	HEAD	トウ ・ ズ	あたま ・ かしら ・ -がしら	73
+163	予	IN ADVANCE	ヨ	あらかじ.め*	73
+164	矛	HALBERD	ム	ほこ	73
+165	預	DEPOSIT	ヨ		74
+166	句	PHRASE ・ HAIKU	ク		74
+167	旬	TEN-DAY PERIOD	ジュン ・ シュン		74
+168	勺	&lt;SHAKU&gt; (0.018L)	シャク		74
+169	的	TARGET ・ ADJECTIVAL SUFFIX	テキ	まと	75
+170	約	PROMISE ・ SHORTEN ・ APPROXIMATELY	ヤク		75
+171	勿	DO NOT	モチ ・ モッ-	なか.れ	75
+172	物	THING	ブツ ・ モツ	もの ・ もの-	75
+173	方	DIRECTION ・ WAY ・ SQUARE	ホウ	かた ・ -かた ・ -がた	76
+174	防	DEFEND AGAINST	ボウ	ふせ.ぐ	76
+175	面	FACE	メン	おも ・ おもて ・ つら	76
+176	画	PICTURE ・ DRAW UP A PLAN	ガ ・ カク		76
+177	両	BOTH	リョウ		77
+178	岡	HILL		おか	77
+179	満	FULL	マン	み.ちる ・ み.つ ・ み.たす	77
+180	顔	FACE	ガン	かお	77
+181	産	GIVE BIRTH ・ PRODUCE	サン	う.む ・ う.まれる ・ うぶ-	78
+182	同	SAME	ドウ	おな.じ	78
+183	向	TURN TOWARD	コウ	む.く ・ む.き ・ -む.き ・ む.ける ・ -む.け ・ む.かう ・ む.こう ・ む.こう-	78
+184	尚	STILL (MORE) ・ VALUE HIGHLY	ショウ	なお*	78
+185	高	HIGH ・ AMOUNT	コウ	たか.い ・ たか ・ -だか ・ たか.まる ・ たか.める	79
+186	圧	PRESSURE	アツ		79
+187	地	GROUND ・ PLACE	チ ・ ジ		79
+188	池	POND	チ	いけ	79
+189	他	OTHER	タ	ほか	80
+190	集	GATHER	シュウ	あつ.まる ・ あつ.める ・ つど.う	80
+191	進	ADVANCE	シン	すす.む ・ すす.める	80
+192	込	MOVE INWARD ・ EMPHATIC VERBAL SUFFIX		#NAME?	80
+193	斤	&lt;KIN&gt; (600g)	キン		81
+194	近	NEAR ・ RECENT	キン	ちか.い	81
+195	辺	VICINITY ・ BORDERLAND	ヘン	あた.り ・ -べ	81
+196	最	MOST	サイ	もっと.も	81
+197	皿	PLATE		さら	82
+198	血	BLOOD	ケツ	ち	82
+199	温	WARM	オン	あたた.か ・ あたた.かい ・ あたた.まる ・ あたた.める	82
+200	湿	MOIST	シツ	しめ.る ・ しめ.す	82
+201	爪	CLAW		つめ ・ つま-	83
+202	瓜	MELON	カ	うり	83
+203	巾	CLOTH	キン		83
+204	布	CLOTH ・ SPREAD	フ	ぬの	83
+205	市	CITY ・ MARKET	シ	いち	84
+206	吊	HANG	チョウ	つ.る ・ つ.り ・ つ.るす	84
+207	泉	SPRING	セン	いずみ	84
+208	原	PLAIN ・ ORIGINAL	ゲン	はら	84
+209	源	SOURCE	ゲン	みなもと	85
+210	線	LINE	セン		85
+211	綿	COTTON	メン	わた	85
+212	絹	SILK	ケン	きぬ	85
+213	錦	BROCADE	キン	にしき	86
+214	願	WISH ・ ASK A FAVOR	ガン	ねが.う	86
+215	内	INSIDE	ナイ ・ ダイ	うち	86
+216	肉	FLESH	ニク		86
+217	猪	WILD BOAR	チョ	いのしし ・ い	87
+218	豚	PIG	トン	ぶた	87
+219	家	HOUSE ・ FAMILY	カ ・ ケ	いえ ・ や ・ うち*	87
+220	吾	EGO	ゴ	われ ・ わが- ・ あ-	87
+221	我	SELF	ガ	われ ・ は ・ わ.が- ・ わが-	88
+222	語	WORD ・ LANGUAGE ・ TELL	ゴ	かた.る ・ かた.らう	88
+223	伝	TRANSMIT	デン	つた.わる ・ つた.える ・ つた.う ・ -ずた.い	88
+224	転	TURN	テン	ころ.がる ・ ころ.げる ・ ころ.がす ・ ころ.ぶ	88
+225	芸	ART	ゲイ		89
+226	会	MEET ・ SOCIETY	カイ ・ エ	あ.う ・ あ.わせる	89
+227	合	COMBINE ・ FIT	ゴウ ・ ガッ- ・ カッ-	あ.う ・ -あ.う ・ あ.い ・ あい- ・ -あ.い ・ -あい ・ あ.わす ・ あ.わせる ・ -あ.わせる	89
+228	今	PRESENT ・ THIS	コン ・ キン	いま	89
+229	令	COMMAND	レイ		90
+230	念	THOUGHTS	ネン		90
+231	印	SEAL	イン	しるし ・ -じるし	90
+232	命	ORDER ・ LIFE ・ FATE	メイ ・ ミョウ	いのち	90
+233	亡	DECEASED	ボウ ・ モウ	な.い ・ な.き-	91
+234	米	RICE ・ AMERICA	ベイ ・ マイ	こめ	91
+235	粒	GRAIN	リュウ	つぶ	91
+236	和	HARMONIOUS ・ PEACE ・ JAPAN	ワ ・ オ	やわ.らぐ ・ やわ.らげる ・ なご.む ・ なご.やか	91
+237	私	PRIVATE ・ I	シ	わたくし ・ わたし	92
+238	広	WIDE	コウ	ひろ.い ・ ひろ.まる ・ ひろ.める ・ ひろ.がる ・ ひろ.げる	92
+239	細	SLENDER ・ MINUTE	サイ	ほそ.い ・ ほそ.る ・ こま.か ・ こまか.い	92
+240	林	FOREST	リン	はやし	92
+241	森	THICK WOODS	シン	もり	93
+242	松	PINE	ショウ	まつ	93
+243	竹	BAMBOO	チク	たけ	93
+244	都	METROPOLIS ・ METROPOLIS OF TOKYO	ト ・ ツ	みやこ	93
+245	京	CAPITAL ・ TOKYO ・ KYOTO	キョウ ・ ケイ		94
+246	政	POLITICAL ADMINISTRATION	セイ ・ ショウ	まつりごと	94
+247	府	URBAN PREFECTURE ・ GOVERNMENT OFFICE	フ		94
+248	戸	DOOR ・ HOUSEHOLD	コ	と	94
+249	所	PLACE ・ PARTICLE OF NOMINALIZATION	ショ	ところ ・ -ところ ・ どころ	95
+250	至	COME TO	シ	いた.る	95
+251	致	BRING ABOUT ・ DO HUMBLY	チ	いた.す	95
+252	屋	HOUSE ・ SMALL SHOP	オク	や	95
+253	室	ROOM	シツ	むろ	96
+254	古	OLD	コ	ふる.い ・ ふる- ・ -ふる.す	96
+255	居	BE PRESENT ・ RESIDE	キョ	い.る ・ -い ・ お.る*	96
+256	局	BUREAU ・ LIMITED PART ・ SITUATION	キョク		96
+257	故	OLD ・ INCIDENT ・ REASON	コ	ゆえ	97
+258	胡	NATIVES OF ANCIENT CHINA	コ ・ ゴ ・ ウ		97
+259	湖	LAKE	コ	みずうみ	97
+260	固	SOLID ・ FIRM	コ	かた.める ・ かた.まる ・ かた.まり ・ かた.い	97
+261	箇	COUNTER FOR ITEMS	カ		98
+262	個	INDIVIDUAL ・ GENERAL COUNTER	コ ・ カ*		98
+263	且	AS WELL AS		か.つ	98
+264	組	ORGANIZE ・ ASSEMBLE	ソ	く.む ・ くみ ・ -ぐみ	98
+265	夕	EVENING	セキ	ゆう	99
+266	外	OUTSIDE	ガイ ・ ゲ	そと ・ ほか ・ はず.す ・ はず.れる	99
+267	多	MANY	タ	おおい	99
+268	汐	(EVENING) TIDE	セキ	しお	99
+269	名	NAME	メイ ・ ミョウ	な ・ -な	100
+270	天	HEAVEN	テン	あめ ・ あま-	100
+271	未	NOT YET	ミ	いま.だ* ・ ま.だ*	100
+272	末	LAST PART	マツ ・ バツ	すえ	100
+273	味	TASTE	ミ	あじ ・ あじ.わう	101
+274	来	COME	ライ	く.る ・ きた.る ・ きた.す	101
+275	新	NEW	シン	あたら.しい ・ あら.た ・ あら- ・ にい-	101
+276	親	PARENT ・ RELATIVES ・ INTIMATE	シン	おや ・ おや- ・ した.しい ・ した.しむ	101
+277	欠	LACK	ケツ	か.ける ・ か.く ・ か.かす	102
+278	次	NEXT	ジ ・ シ	つ.ぐ ・ つぎ	102
+279	席	SEAT	セキ		102
+280	度	DEGREE ・ TIME	ド ・ ト ・ タク	たび	102
+281	渡	CROSS	ト	わた.る ・ -わた.る ・ わた.す	103
+282	限	LIMIT	ゲン	かぎ.る ・ かぎ.り ・ -かぎ.り	103
+283	銀	SILVER	ギン		103
+284	根	ROOT	コン	ね ・ -ね	103
+285	良	GOOD	リョウ	よ.い ・ -よ.い ・ い.い*	104
+286	郎	YOUNG MAN ・ MALE NAME SUFFIX	ロウ		104
+287	廊	CORRIDOR	ロウ		104
+288	食	EAT ・ FOOD	ショク ・ ジキ	く.う ・ く.らう ・ た.べる	104
+289	飲	DRINK	イン	の.む	105
+290	官	GOVERNMENT ・ GOVERNMENT OFFICIAL	カン		105
+291	館	PUBLIC BUILDING	カン	やかた	105
+292	宿	LODGE	シュク	やど ・ やど.る ・ やど.す	105
+293	犬	DOG	ケン	いぬ ・ いぬ-	106
+294	太	GREAT ・ THICK	タイ ・ タ	ふと.い ・ ふと.る	106
+295	器	VESSEL ・ INSTRUMENT	キ	うつわ	106
+296	凶	MISFORTUNE ・ EVIL	キョウ		106
+297	区	DIVIDE INTO SECTIONS ・ DISTRICT ・ WARD	ク		107
+298	図	DRAWING	ズ ・ ト	はか.る	107
+299	番	NUMERICAL ORDER ・ WATCH	バン		107
+300	号	NUMBER ・ DESIGNATION ・ SIGN	ゴウ		107
+301	品	ARTICLE ・ GRADE OF EXCELLENCE ・ CLASSIFICATION	ヒン	しな	108
+302	楽	PLEASURE ・ COMFORTABLE ・ MUSIC	ガク ・ ラク	たの.しい ・ たの.しむ	108
+303	薬	DRUG	ヤク	くすり	108
+304	周	PERIPHERY	シュウ	まわ.り	108
+305	週	WEEK	シュウ		109
+306	調	TONE ・ INVESTIGATE ・ PREPARE	チョウ	しら.べる ・ しら.べ ・ ととの.う ・ ととの.える	109
+307	束	TIE UP ・ BUNDLE	ソク	たば ・ たば.ねる ・ つか*	109
+308	整	PUT IN ORDER	セイ	ととの.える ・ ととの.う	109
+309	数	NUMBER	スウ ・ ス	かず ・ かぞ.える	110
+310	類	KIND	ルイ	たぐい	110
+311	示	SHOW	ジ ・ シ	しめ.す	110
+312	禁	PROHIBIT	キン		110
+313	礼	ETIQUETTE ・ RITE	レイ ・ ライ		111
+314	社	COMPANY ・ SOCIETY ・ SHINTO SHRINE	シャ	やしろ	111
+315	申	REPORT ・ SPEAK HUMBLY	シン	もうす ・ もうし-	111
+316	神	GOD	シン ・ ジン	かみ ・ かん- ・ こう-	111
+317	員	MEMBER	イン		112
+318	質	QUALITY ・ MATTER ・ PAWN	シツ ・ シチ ・ チ		112
+319	党	PARTY	トウ		112
+320	堂	HALL	ドウ		112
+321	常	NORMAL ・ REGULAR	ジョウ	つね ・ とこ-	113
+322	賞	PRIZE	ショウ		113
+323	償	RECOMPENSE	ショウ	つぐな.う	113
+324	掌	PALM OF ONE'S HAND ・ TAKE CHARGE OF	ショウ	てのひら*	113
+325	覚	PERCEIVE ・ WAKE UP ・ COMMIT TO MEMORY	カク	おぼ.える ・ さ.ます ・ さ.める ・ さと.る**	114
+326	悟	AWAKE TO	ゴ	さと.る	114
+327	感	SENSE	カン		114
+328	央	CENTER	オウ		114
+329	映	REFLECT ・ PROJECT	エイ	うつ.る ・ うつ.す ・ は.える ・ -ば.え	115
+330	決	DECIDE	ケツ	き.める ・ -ぎ.め ・ き.まる	115
+331	快	PLEASANT	カイ	こころよ.い	115
+332	英	DISTINGUISHED ・ ENGLAND	エイ		115
+333	並	LINE UP	ヘイ	なみ ・ な.み ・ なら.べる ・ なら.ぶ ・ なら.びに	116
+334	平	FLAT ・ CALM	ヘイ ・ ビョウ	たい.ら ・ -だいら ・ ひら ・ ひら-	116
+335	半	HALF	ハン	なか.ば	116
+336	馬	HORSE	バ	うま ・ うま- ・ ま	116
+337	尺	&lt;SHAKU&gt; (30.3cm)	シャク		117
+338	尽	EXHAUST	ジン	つ.くす ・ -つ.くす ・ -ず.くし ・ つ.きる ・ つ.かす	117
+339	駅	STATION	エキ		117
+340	鳥	BIRD	チョウ	とり	117
+341	島	ISLAND	トウ	しま	118
+342	角	ANGLE ・ HORN	カク	かど ・ つの	118
+343	虫	INSECT	チュウ	むし	118
+344	触	TOUCH	ショク	ふ.れる ・ さわ.る	118
+345	解	TAKE APART ・ DISSOLVE ・ CLARIFY	カイ ・ ゲ	と.く ・ と.かす ・ と.ける	119
+346	独	ALONE	ドク	ひと.り	119
+347	店	SHOP	テン	みせ	119
+348	占	OCCUPY ・ DIVINE	セン	し.める ・ うらな.う	119
+349	点	POINT	テン		120
+350	士	MILITARY MAN ・ MAN OF LEARNING	シ		120
+351	商	TRADE	ショウ	あきな.う	120
+352	買	BUY	バイ	か.う	120
+353	売	SELL	バイ	う.る ・ う.れる	121
+354	続	CONTINUE	ゾク	つず.く ・ つず.ける	121
+355	読	READ	ドク ・ トク ・ トウ	よ.む ・ -よ.み	121
+356	共	JOINT	キョウ	とも ・ とも.に ・ -ども	121
+357	供	OFFER	キョウ ・ ク	そな.える ・ とも ・ -ども	122
+358	洪	FLOOD	コウ		122
+359	昔	FORMER TIMES	セキ ・ シャク	むかし	122
+360	冬	WINTER	トウ	ふゆ	122
+361	寒	COLD	カン	さむ.い	123
+362	春	SPRING	シュン	はる	123
+363	夏	SUMMER	カ ・ ゲ	なつ	123
+364	秋	AUTUMN	シュウ	あき	123
+365	主	MAIN ・ LORD	シュ ・ ス	ぬし ・ おも ・ あるじ*	124
+366	住	LIVE	ジュウ	す.む ・ す.まう ・ -ず.まい	124
+367	駐	STATIONED	チュウ		124
+368	注	POUR ・ CONCENTRATE	チュウ	そそ.ぐ	124
+369	志	AMBITION	シ	こころざ.す ・ こころざし	125
+370	誌	MAGAZINE	シ		125
+371	仕	SERVE ・ DO	シ ・ ジ	つか.える	125
+372	任	OFFICE ・ ENTRUST	ニン	まか.せる ・ まか.す	125
+373	支	BRANCH ・ SUPPORT ・ BE OBSTRUCTED	シ	ささ.える ・ つか.える ・ か.う	126
+374	反	COUNTER	ハン ・ ホン ・ タン	そ.る ・ そ.らす	126
+375	坂	SLOPE	ハン	さか	126
+376	阪	SLOPE	ハン	さか	126
+377	飯	COOKED RICE ・ MEAL	ハン	めし	127
+378	返	RETURN	ヘン	かえ.す ・ -かえ.す ・ かえ.る ・ -かえ.る	127
+379	雑	MISCELLANEOUS ・ MIXED	ザツ ・ ゾウ		127
+380	乱	DISORDERED	ラン	みだ.れる ・ みだ.る ・ みだ.す	127
+381	寸	A BIT OF ・ &lt;SUN&gt; (3.03cm)	スン		128
+382	寺	BUDDHIST TEMPLE	ジ	てら	128
+383	時	TIME	ジ	とき ・ -どき	128
+384	持	HOLD	ジ	も.つ ・ -も.ち ・ も.てる	128
+385	特	SPECIAL	トク		129
+386	待	WAIT	タイ	ま.つ ・ -ま.ち	129
+387	得	ACQUIRE ・ GAIN	トク	え.る ・ う.る	129
+388	侍	ATTEND UPON ・ SAMURAI	ジ	さむらい	129
+389	詩	POETRY	シ		130
+390	即	IMMEDIATE ・ NAMELY	ソク	すなわ.ち*	130
+391	節	JOINT ・ INTERVAL ・ SEASON OF THE YEAR	セツ ・ セチ	ふし ・ -ぶし	130
+392	筋	MUSCLE ・ THREADLIKE STRUCTURE	キン	すじ	130
+393	等	EQUAL ・ CLASS	トウ	ひと.しい ・ -ら* ・ など*	131
+394	均	EQUAL	キン		131
+395	季	SEASON	キ		131
+396	委	COMMIT	イ	ゆだ.ねる	131
+397	穴	HOLE	ケツ	あな	132
+398	空	SKY ・ AIR ・ EMPTY	クウ	そら ・ あ.く ・ あ.き ・ あ.ける ・ から ・ むな.しい* ・ す.く*	132
+399	友	FRIEND	ユウ	とも	132
+400	有	HAVE	ユウ ・ ウ	あ.る	132
+401	左	LEFT	サ	ひだり	133
+402	右	RIGHT	ウ ・ ユウ	みぎ	133
+403	石	STONE	セキ ・ シャク ・ コク	いし	133
+404	若	YOUNG	ジャク ・ ニャク	わか.い ・ わか- ・ も.しくわ ・ も.し*	133
+405	苦	SUFFERING ・ BITTER	ク	くる.しい ・ -ぐる.しい ・ くる.しむ ・ くる.しめる ・ にが.い ・ にが.る	134
+406	在	BE	ザイ	あ.る	134
+407	存	EXIST	ソン ・ ゾン		134
+408	干	DRY	カン	ほ.す ・ ほ.し- ・ -ぼ.し ・ ひ.る	134
+409	刊	PUBLISH	カン		135
+410	汗	SWEAT	カン	あせ	135
+411	竿	POLE	カン	さお	135
+412	利	ADVANTAGE ・ PROFIT	リ	き.く	135
+413	害	HARM	ガイ		136
+414	益	BENEFIT	エキ ・ ヤク	ま.す*	136
+415	溢	SPILL OVER	イツ	あふ.れる ・ こぼ.れる ・ こぼ.す	136
+416	割	DIVIDE	カツ	わ.る ・ わり ・ わ.り ・ わ.れる ・ さ.く	136
+417	憲	CONSTITUTION	ケン		137
+418	羽	FEATHER ・ WING	ウ	は ・ は ・ はね	137
+419	翌	THE FOLLOWING	ヨク		137
+420	習	LEARN ・ CUSTOM	シュウ	なら.う ・ なら.い	137
+421	弓	BOW	キュウ	ゆみ	138
+422	引	DRAW ・ REDUCE	イン	ひ.く ・ ひ.き ・ ひ.き- ・ -び.き ・ ひ.ける	138
+423	強	STRONG	キョウ ・ ゴウ	つよ.い ・ つよ.まる ・ つよ.める ・ し.いる	138
+424	弱	WEAK	ジャク	よわ.い ・ よわ.る ・ よわ.まる ・ よわ.める	138
+425	風	WIND ・ MANNER	フウ ・ フ	かぜ ・ かざ- ・ -かぜ	139
+426	己	ONESELF	コ ・ キ	おのれ	139
+427	記	WRITE DOWN	キ	しる.す	139
+428	紀	ERA ・ DISCIPLINE	キ		139
+429	改	REFORM	カイ	あらた.める ・ あらた.まる	140
+430	起	RISE	キ	お.きる ・ お.こる ・ お.こす ・	140
+431	姓	SURNAME	セイ ・ ショウ		140
+432	由	REASON	ユ ・ ユウ ・ ユイ	よし	140
+433	油	OIL	ユ	あぶら	141
+434	井	WELL	セイ ・ ショウ	い	141
+435	囲	ENCLOSE	イ	かこ.む ・ かこ.う ・ かこ.い	141
+436	丼	BOWL	ドン	どんぶり	141
+437	丁	TOWN SUBSECTION ・ MISCELLANEOUS COUNTER	チョウ ・ テイ		142
+438	寧	COURTEOUS	ネイ		142
+439	町	TOWN	チョウ	まち	142
+440	灯	LAMP	トウ	ひ	142
+441	庁	GOVERNMENT AGENCY	チョウ		143
+442	貯	STORE UP	チョ		143
+443	易	EASY ・ EXCHANGE ・ FORTUNETELLING	エキ ・ イ	やさ.しい ・ やす.い*	143
+444	賜	DEIGN TO GIVE	シ	たまわ.る	143
+445	場	PLACE	ジョウ	ば	144
+446	湯	HOT WATER	トウ	ゆ	144
+447	門	GATE	モン	かど	144
+448	間	SPACE IN BETWEEN	カン ・ ケン	あいだ ・ ま	144
+449	閉	CLOSE	ヘイ	と.じる ・ と.ざす ・ し.める ・ し.まる	145
+450	開	OPEN	カイ	ひら.く ・ ひら.き ・ -び.らき ・ ひら.ける ・ あ.く ・ あ.ける	145
+451	関	CONNECT WITH ・ BARRIER	カン	せき ・ -ぜき ・ かか.わる	145
+452	問	QUESTION	モン	と.う ・ と.い ・ とん	145
+453	聞	HEAR	ブン ・ モン	き.く ・ き.こえる	146
+454	訪	VISIT	ホウ	おとず.れる ・ たず.ねる	146
+455	送	SEND	ソウ	おく.る	146
+456	券	TICKET ・ CERTIFICATE	ケン		146
+457	包	WRAP ・ ENCOMPASS	ホウ	つつ.む	147
+458	巻	ROLL UP ・ VOLUME	カン	ま.く ・ まき ・ ま.き	147
+459	圏	SPHERE	ケン		147
+460	勝	WIN ・ EXCEL	ショウ	か.つ ・ -が.ち ・ まさ.る	147
+461	戦	WAR	セン	いくさ ・ たたか.う	148
+462	単	SINGLE	タン		148
+463	簡	SIMPLE	カン		148
+464	過	PASS BY ・ EXCEED	カ	す.ぎる ・ -す.ぎる ・ -す.ぎ ・ す.ごす ・ あやま.つ ・ あやま.ち	148
+465	骨	BONE	コツ	ほね	149
+466	昼	DAYTIME	チュウ	ひる	149
+467	夜	NIGHT	ヤ	よ ・ よる	149
+468	液	LIQUID	エキ		149
+469	戒	CAUTION	カイ	いまし.める	150
+470	幾	HOW MANY ・ SOME	キ	いく- ・ いく.つ ・ いく.ら	150
+471	畿	CAPITAL REGION	キ		150
+472	磯	ROCKY BEACH	キ	いそ	150
+473	機	MACHINE ・ AIRCRAFT ・ OPPORTUNITY	キ	はた	151
+474	械	MECHANICAL CONTRIVANCE	カイ		151
+475	飛	FLY	ヒ	と.ぶ ・ と.ばす ・ -と.ばす	151
+476	氏	FAMILY ・ COURTESY TITLE	シ	うじ ・ -うじ	151
+477	民	PEOPLE	ミン	たみ	152
+478	紙	PAPER	シ	かみ	152
+479	低	LOW	テイ	ひく.い ・ ひく.める ・ ひく.まる	152
+480	抵	RESIST	テイ		152
+481	邸	STATELY RESIDENCE	テイ		153
+482	底	BOTTOM	テイ	そこ	153
+483	巨	GIANT	キョ		153
+484	臣	RETAINER	シン		153
+485	基	BASE	キ	もと ・ もとい	154
+486	期	TERM ・ EXPECT	キ ・ ゴ		154
+487	毛	HAIR	モウ	け	154
+488	尾	TAIL	ビ	お	154
+489	育	RAISE	イク	そだ.つ ・ そだ.ち ・ そだ.てる ・ はぐく.む	155
+490	羊	SHEEP	ヨウ	ひつじ	155
+491	洋	OCEAN ・ WESTERN	ヨウ		155
+492	魚	FISH	ギョ	うお ・ さかな ・ -ざかな	155
+493	鮮	FRESH ・ VIVID	セン	あざ.やか	156
+494	蘇	REVIVE	ソ ・ ス	よみがえ.る	156
+495	詳	DETAILED	ショウ	くわ.しい	156
+496	祥	AUSPICIOUS	ショウ		156
+497	美	BEAUTIFUL	ビ	うつく.しい	157
+498	業	WORK ・ BUSINESS ・ INDUSTRY	ギョウ ・ ゴウ	わざ	157
+499	実	REAL ・ FRUIT	ジツ	み ・ みの.る	157
+500	養	FOSTER	ヨウ	やしな.う	157
+501	様	MODE ・ FORMAL TITLE	ヨウ	さま	158
+502	企	SCHEME	キ	くわだ.てる ・ たくら.み*	158
+503	曲	MUSICAL COMPOSITION ・ CURVE	キョク	ま.がる ・ ま.げる	158
+504	典	STANDARD WORK ・ CANON	テン		158
+505	興	RISE TO PROSPERITY ・ AMUSEMENT	コウ ・ キョウ	おこ.る ・ おこ.す	159
+506	輿	PALANQUIN	ヨ	こし	159
+507	竜	DRAGON	リュウ	たつ	159
+508	滝	WATERFALL		たき	159
+509	籠	BASKET	ロウ	かご ・ こ.める ・ こも.る	160
+510	辰	THE DRAGON	シン	たつ	160
+511	農	FARMING	ノウ		160
+512	濃	THICK	ノウ	こ.い	160
+513	豊	ABUNDANT	ホウ	ゆたか	161
+514	吉	LUCKY	キチ ・ キツ		161
+515	詰	STUFF ・ REPRIMAND	キツ	つ.める ・ つ.め ・ -ず.め ・ つ.まる ・ つ.む	161
+516	結	TIE ・ CONCLUDE	ケツ	むす.ぶ ・ ゆ.う ・ ゆ.わえる	161
+517	投	THROW ・ SEND IN	トウ	な.げる ・ -な.げ	162
+518	役	SERVICE	ヤク ・ エキ		162
+519	没	SINK	ボツ		162
+520	設	SET UP	セツ	もう.ける	162
+521	段	STEP	ダン		163
+522	殺	KILL	サツ ・ サイ ・ セツ	ころ.す ・ -ごろ.し	163
+523	刹	TEMPLE	サツ ・ セツ		163
+524	刈	CLIP		か.る	163
+525	絵	PICTURE	カイ ・ エ		164
+526	給	SUPPLY ・ PAY	キュウ		164
+527	巴	CIRCULAR COMMA PATTERN	ハ	ともえ	164
+528	色	COLOR ・ EROS	ショク ・ シキ	いろ	164
+529	声	VOICE	セイ ・ ショウ	こえ ・ こわ-	165
+530	眉	EYEBROW	ビ ・ ミ	まゆ	165
+531	里	VILLAGE ・ LEAGUE	リ	さと	165
+532	理	REASON ・ BASIC PRINCIPLE ・ MANAGE	リ		165
+533	埋	BURY	マイ	う.める ・ う.まる ・ う.もれる	166
+534	野	FIELD ・ WILD	ヤ	の ・ の-	166
+535	黒	BLACK	コク	くろ ・ くろ.い	166
+536	墨	INDIA INK	ボク	すみ	166
+537	童	CHILD	ドウ	わらべ	167
+538	量	QUANTITY	リョウ	はか.る	167
+539	重	HEAVY ・ PILE ON TOP OF	ジュウ ・ チョウ	え ・ おも.い ・ おも.り ・ かさ.ねる ・ かさ.なる	167
+540	動	MOVE	ドウ	うご.く ・ うご.かす	167
+541	働	WORK	ドウ	はたら.く	168
+542	労	LABOR	ロウ		168
+543	協	COOPERATE	キョウ		168
+544	種	VARIETY ・ SEED	シュ	たね	168
+545	亜	SUB- ・ PHONETIC [A]	ア		169
+546	悪	BAD	アク ・ オ	わる.い ・ わる- ・ あ.し*	169
+547	要	IMPORTANT ・ SUMMARIZE ・ REQUIRE	ヨウ	い.る ・ かなめ	169
+548	価	PRICE ・ VALUE	カ	あたい	169
+549	必	WITHOUT FAIL	ヒツ	かなら.ず	170
+550	証	PROVE ・ CERTIFICATE	ショウ	あか.し*	170
+551	歪	DISTORT	ワイ ・ エ	ゆが.む ・ ゆが.み ・ ゆが.める ・ ひず.む ・ ひず.み ・ いびつ	170
+552	否	SAY NO ・ OR NOT	ヒ	いな	170
+553	処	DEAL WITH	ショ		171
+554	拠	GROUNDS	キョ ・ コ		171
+555	計	PLAN ・ COMPUTE	ケイ	はか.る ・ はか.らう	171
+556	針	NEEDLE	シン	はり	171
+557	総	WHOLE ・ GENERAL	ソウ		172
+558	窓	WINDOW	ソウ	まど	172
+559	矢	ARROW	シ	や	172
+560	知	KNOW	チ	し.る ・ し.らせる ・ し.れる	172
+561	医	MEDICINE ・ DOCTOR	イ		173
+562	短	SHORT	タン	みじか.い	173
+563	失	LOSE ・ SLIP	シツ	うしな.う	173
+564	鉄	IRON	テツ		173
+565	夫	HUSBAND ・ MAN LABORER	フ ・ フウ ・ ブ*	おっと	174
+566	朱	VERMILION	シュ		174
+567	株	STOCK		かぶ	174
+568	族	FAMILY	ゾク		174
+569	旅	TRAVEL	リョ	たび	175
+570	遊	PLAY ・ TOUR	ユウ ・ ユ	あそ.ぶ ・ あそ.ばす	175
+571	施	EXECUTE ・ BESTOW	シ ・ セ	ほどこ.す	175
+572	旋	GYRATE	セン		175
+573	旗	FLAG	キ	はた	176
+574	放	LET GO	ホウ	はな.す ・ -.っぱな.し ・ はな.つ ・ はな.れる ・ ほう.る	176
+575	激	VIOLENT ・ AROUSE	ゲキ	はげ.しい	176
+576	牧	PASTURE	ボク	まき	176
+577	位	RANK ・ POSITION	イ	くらい ・ ぐらい	177
+578	泣	CRY	キュウ	な.く	177
+579	笑	LAUGH	ショウ	わら.う ・ え.む	177
+580	専	EXCLUSIVELY	セン	もっぱ.ら	177
+581	恵	FAVOR	ケイ ・ エ	めぐ.む	178
+582	連	LINK ・ IN SUCCESSION	レン	つら.なる ・ つら.ねる ・ つ.れる ・ -ず.れ	178
+583	軍	ARMY	グン		178
+584	運	CARRY ・ MOVE ・ FORTUNE	ウン	はこ.ぶ	178
+585	蓮	LOTUS	レン	はす ・ はちす	179
+586	隊	PARTY	タイ		179
+587	呈	PRESENT	テイ		179
+588	程	EXTENT ・ ESTABLISHED FORM	テイ	ほど ・ -ほど	179
+589	聖	HOLY ・ SAINT	セイ		180
+590	丑	THE OX	チュウ	うし	180
+591	紐	STRING	チュウ ・ ジュウ	ひも	180
+592	革	LEATHER ・ REFORM	カク	かわ	180
+593	靴	SHOES	カ	くつ	181
+594	鞄	SUITCASE	ホウ	かばん	181
+595	皮	SKIN	ヒ	かわ	181
+596	破	BREAK	ハ	やぶ.る ・ やぶ.れる	181
+597	彼	THIRD PERSON PRONOUN	ヒ	かれ ・ かの	182
+598	波	WAVE	ハ	なみ	182
+599	果	FRUIT ・ ACCOMPLISH	カ	はた.す ・ -はた.す ・ は.てる ・ -は.てる ・ は.て	182
+600	課	ASSIGNMENT ・ ASSIGN	カ		182
+601	巣	NEST	ソウ	す	183
+602	菓	CONFECTIONERY	カ		183
+603	茶	TEA	チャ ・ サ		183
+604	世	WORLD ・ AGE	セイ ・ セ	よ	183
+605	葉	LEAF	ヨウ	は	184
+606	棄	ABANDON	キ	すて.る	184
+607	緑	GREEN	リョク ・ ロク	みどり	184
+608	録	RECORD	ロク		184
+609	剝	STRIP OFF	ハク	は.げる ・ は.がれる ・ は.ぐ ・ は.がす ・ む.ける* ・ む.く*	185
+610	縁	RELATION ・ EDGE	エン ・ -ネン	ふち	185
+611	介	MEDIATE	カイ		185
+612	界	WORLD ・ BOUNDS	カイ		185
+613	浮	FLOATING	フ	う.く ・ う.かれる ・ う.かぶ ・ う.かべる	186
+614	将	GENERAL OFFICER	ショウ		186
+615	奨	ENCOURAGE	ショウ		186
+616	状	FORM ・ CONDITION ・ LETTER	ジョウ		186
+617	病	ILLNESS	ビョウ ・ ヘイ	や.む ・ -や.み ・ やまい	187
+618	症	PATHOLOGICAL CONDITION	ショウ		187
+619	痛	PAIN ・ ACUTE	ツウ	いた.い ・ いた.む ・ いた.ましい ・ いた.める	187
+620	憶	REMEMBER	オク		187
+621	臆	FEEL TIMID	オク		188
+622	億	HUNDRED MILLION	オク		188
+623	視	LOOK AT	シ		188
+624	規	REGULATION	キ		188
+625	則	RULE	ソク		189
+626	側	SIDE	ソク	がわ	189
+627	測	MEASURE ・ CONJECTURE	ソク	はか.る	189
+628	考	THINK	コウ	かんが.える ・ かんが.え	189
+629	老	OLD	ロウ	お.いる ・ ふ.ける	190
+630	孝	FILIAL PIETY	コウ		190
+631	厚	THICK ・ KIND	コウ	あつ.い	190
+632	教	TEACH ・ RELIGION	キョウ	おし.える ・ おそ.わる	190
+633	完	COMPLETE	カン		191
+634	院	INSTITUTION	イン		191
+635	奈	PHONETIC [NA]	ナ		191
+636	宗	RELIGIOUS SECT	シュウ ・ ソウ		191
+637	祭	FESTIVAL	サイ	まつ.る ・ まつ.り ・ まつり	192
+638	際	VERGE ・ OCCASION	サイ	きわ ・ -ぎわ	192
+639	察	INSPECT ・ GUESS	サツ		192
+640	祈	PRAY	キ	いの.る	192
+641	祖	ANCESTOR	ソ		193
+642	助	HELP	ジョ	たす.ける ・ たす.かる ・ すけ	193
+643	仲	INTERMEDIARY ・ PERSONAL RELATIONS	チュウ	なか	193
+644	忠	LOYALTY	チュウ		193
+645	沖	OPEN SEA	チュウ	おき	194
+646	保	PRESERVE	ホ	たも.つ	194
+647	呆	DUMB	ホウ ・ ボウ	あき.れる	194
+648	守	PROTECT	シュ ・ ス	まも.る ・ まも.り ・ もり ・ -もり	194
+649	団	COLLECTIVE	ダン ・ トン		195
+650	対	OPPOSITE ・ OPPOSE	タイ	つい	195
+651	村	VILLAGE	ソン	むら	195
+652	才	TALENT ・ -YEARS OLD	サイ		195
+653	財	WEALTH	ザイ ・ サイ		196
+654	材	TIMBER ・ MATERIAL	ザイ		196
+655	沈	SINK	チン	しず.む ・ しず.める	196
+656	枕	PILLOW		まくら	196
+657	丈	STATURE ・ STOUT	ジョウ	たけ	197
+658	杖	CANE	ジョウ	つえ	197
+659	偉	GREAT	イ	えら.い	197
+660	緯	LATITUDE	イ		197
+661	衛	GUARD	エイ		198
+662	韓	(SOUTH) KOREA	カン		198
+663	違	DIFFER ・ VIOLATE	イ	ちが.う ・ ちが.い ・ ちが.える ・ -ちが.える	198
+664	抱	HOLD	ホウ	だ.く ・ いだ.く ・ かか.える	198
+665	砲	HEAVY GUN	ホウ		199
+666	泡	BUBBLE	ホウ	あわ	199
+667	丹	CINNABAR RED	タン		199
+668	舟	SMALL BOAT	シュウ	ふね ・ ふな- ・ -ぶね	199
+669	船	SHIP	セン	ふね ・ ふな- ・ -ぶね	200
+670	舶	OCEANGOING SHIP	ハク		200
+671	般	SORT	ハン		200
+672	搬	CARRY	ハン		200
+673	盤	DISK ・ BOARD	バン		201
+674	歯	TOOTH	シ	は	201
+675	冷	COLD	レイ	つめ.たい ・ ひ.える ・ ひ.や ・ ひ.ややか ・ ひ.やす ・ ひ.やかす ・ さ.める ・ さ.ます	201
+676	齢	AGE	レイ		201
+677	少	LITTLE	ショウ	すく.ない ・ すこ.し	202
+678	砂	SAND	サ ・ シャ	すな	202
+679	歩	WALK	ホ ・ ブ ・ フ	ある.く ・ あゆ.む	202
+680	渉	HAVE RELATIONS WITH	ショウ		202
+681	省	MINISTRY ・ SAVE ・ INTROSPECT	セイ ・ ショウ	かえり.みる ・ はぶ.く	203
+682	相	ASPECT ・ MUTUAL ・ MINISTER	ソウ ・ ショウ	あい-	203
+683	想	CONCEIVE	ソウ ・ ソ		203
+684	称	APPELLATION	ショウ		203
+685	弥	PHONETIC [MI] ・ PHONETIC [YA]	ミ	いや* ・ や*	204
+686	互	RECIPROCAL	ゴ	たが.い	204
+687	務	DUTY	ム	つと.める ・ つと.まる	204
+688	柔	SOFT	ジュウ ・ ニュウ	やわ.らか ・ やわ.らかい	204
+689	軟	SOFT	ナン	やわ.らか ・ やわ.らかい	205
+690	軌	TRACK	キ		205
+691	軒	EAVES ・ COUNTER FOR HOUSES	ケン	のき	205
+692	軸	AXLE ・ AXIS	ジク		205
+693	較	COMPARE	カク		206
+694	庫	STORAGE CHAMBER	コ ・ ク		206
+695	蔵	STORE	ゾウ	くら	206
+696	倉	STOREHOUSE	ソウ	くら	206
+697	創	CREATE	ソウ	つく.る	207
+698	告	NOTIFY ・ ACCUSE	コク	つ.げる	207
+699	造	MAKE	ゾウ	つく.る ・ つく.り ・ -ずくり	207
+700	衣	GARMENT	イ ・ エ*	ころも	207
+701	依	DEPEND ON	イ ・ エ		208
+702	袋	BAG	タイ	ふくろ	208
+703	褒	COMMEND	ホウ	ほ.める	208
+704	裏	REAR	リ	うら	208
+705	表	EXPRESS ・ SURFACE ・ TABLE	ヒョウ	おもて ・ -おもて ・ あらわ.す ・ あらわ.れる	209
+706	現	ACTUAL ・ APPEAR	ゲン	あらわ.れる ・ あらわ.す	209
+707	著	AUTHOR ・ CONSPICUOUS	チョ	あらわ.す ・ いちじる.しい	209
+708	制	SYSTEM ・ CONTROL	セイ		209
+709	製	MANUFACTURE	セイ		210
+710	初	FIRST	ショ	はじ.め ・ はじ.めて ・ はつ ・ はつ- ・ うい- ・ -そ.める ・ -ぞ.め	210
+711	裸	NAKED	ラ	はだか	210
+712	難	DIFFICULT ・ DISASTER ・ FAULT	ナン	かた.い ・ -がた.い ・ むずか.しい	210
+713	准	JUNIOR	ジュン		211
+714	準	STANDARD ・ QUASI-	ジュン		211
+715	備	PROVIDE	ビ	そな.える ・ そな.わる	211
+716	死	DIE	シ	し.ぬ ・ し.に-	211
+717	葬	FUNERAL	ソウ	ほうむ.る	212
+718	列	COLUMN	レツ		212
+719	烈	VEHEMENT	レツ		212
+720	裂	SPLIT	レツ	さ.く ・ さ.ける	212
+721	例	EXAMPLE	レイ	たと.える	213
+722	刑	PENALTY	ケイ		213
+723	型	TYPE	ケイ	かた ・ -がた	213
+724	研	GRIND ・ RESEARCH	ケン	と.ぐ	213
+725	厄	MISFORTUNE	ヤク		214
+726	危	DANGEROUS	キ	あぶ.ない ・ あや.うい ・ あや.ぶむ	214
+727	範	MODEL	ハン		214
+728	怨	HOLD A GRUDGE	エン ・ オン	うら.む* ・ うら.み* ・ うら.めしい*	214
+729	苑	IMPERIAL GARDEN	エン ・ オン	その	215
+730	宛	ADDRESS		あ.てる ・ -あ.て ・ -あて	215
+731	碗	BOWL	ワン		215
+732	腕	ARM ・ ABILITY	ワン	うで	215
+733	却	ELIMINATE	キャク		216
+734	脚	LEG	キャク ・ キャ	あし	216
+735	犯	OFFENSE	ハン	おか.す	216
+736	狂	CRAZY	キョウ	くる.う ・ くる.おしい ・ くる.わす ・ くる.わせる	216
+737	獄	PRISON	ゴク		217
+738	非	IS NOT	ヒ		217
+739	排	EXCLUDE ・ DISCHARGE	ハイ		217
+740	俳	HAIKU	ハイ		217
+741	罪	CRIME	ザイ	つみ	218
+742	罰	PUNISHMENT	バツ ・ バチ		218
+743	伴	ACCOMPANY	ハン ・ バン	ともな.う	218
+744	判	JUDGE ・ PERSONAL SEAL	ハン ・ バン		218
+745	評	COMMENT	ヒョウ		219
+746	批	CRITICIZE	ヒ		219
+747	帥	COMMANDER IN CHIEF	スイ		219
+748	師	MASTER	シ		219
+749	座	SEAT ・ SIT	ザ	すわ.る	220
+750	坐	SIT	ザ	すわ.る	220
+751	卒	GRADUATE ・ PRIVATE	ソツ		220
+752	率	RATE ・ LEAD	ソツ ・ リツ	ひき.いる	220
+753	傘	UMBRELLA	サン	かさ	221
+754	笠	BAMBOO HAT	リュウ	かさ	221
+755	星	STAR	セイ ・ ショウ	ほし ・ -ぼし	221
+756	汁	JUICE ・ SOUP	ジュウ	しる ・ -しる	221
+757	斗	DIPPER ・ &lt;TO&gt; (18L)	ト		222
+758	料	FEE ・ MATERIALS	リョウ		222
+759	科	SUBJECT OF STUDY	カ		222
+760	然	#NAME?	ゼン ・ ネン		222
+761	燃	BURN	ネン	も.える ・ も.やす ・ も.す	223
+762	黙	SILENT	モク	だま.る	223
+763	獣	BEAST	ジュウ	けもの	223
+764	猟	HUNTING	リョウ		223
+765	漁	FISHING	ギョ ・ リョウ		224
+766	狩	HUNT	シュ	か.る ・ か.り ・ -が.り	224
+767	猛	FEROCIOUS	モウ		224
+768	煙	SMOKE	エン	けむ.る ・ けむり ・ けむ.い	224
+769	焼	BURN	ショウ	や.く ・ や.き ・ や.き- ・ -や.き ・ や.ける	225
+770	暁	DAWN	ギョウ	あかつき	225
+771	旧	FORMER	キュウ		225
+772	児	CHILD	ジ ・ ニ		225
+773	亦	ALSO	エキ	また	226
+774	赤	RED	セキ ・ シャク	あか ・ あか- ・ あか.い ・ あか.らむ ・ あか.らめる	226
+775	変	CHANGE ・ ABNORMAL	ヘン	か.わる ・ か.わり ・ か.える	226
+776	蛮	BARBARIAN	バン		226
+777	恋	LOVE	レン	こ.う ・ こい ・ こい.しい	227
+778	愛	LOVE	アイ	いと.しい*	227
+779	憂	BE ANXIOUS ・ GRIEF	ユウ	うれ.える ・ うれ.い ・ う.い ・ う.き	227
+780	優	SUPERIOR ・ ACTOR ・ KIND	ユウ	やさ.しい ・ すぐ.れる	227
+781	栗	CHESTNUT	リツ ・ リ	くり	228
+782	票	SLIP OF PAPER ・ BALLOT	ヒョウ		228
+783	標	MARK	ヒョウ		228
+784	漂	DRIFT	ヒョウ	ただよ.う	228
+785	遷	TRANSFER	セン		229
+786	各	EACH	カク	おのおの	229
+787	客	VISITOR ・ CUSTOMER	キャク ・ カク		229
+788	路	ROAD	ロ	#NAME?	229
+789	格	NORM ・ STATUS ・ CHARACTER	カク ・ コウ		230
+790	絡	INTERLINK ・ ENTWINE	ラク	から.む ・ から.める ・ から.まる	230
+791	略	LEAVE OUT ・ STRATEGY	リャク		230
+792	閣	GRAND BUILDING ・ CABINET	カク		230
+793	落	FALL	ラク	お.ちる ・ お.ち ・ お.とす	231
+794	南	SOUTH	ナン ・ ナ	みなみ	231
+795	西	WEST	セイ ・ サイ	にし	231
+796	酉	THE BIRD	ユウ	とり	231
+797	酒	ALCOHOLIC DRINK	シュ	さけ ・ さか-	232
+798	洒	SPRINKLE	シャ ・ サイ		232
+799	配	DISTRIBUTE ・ PUT IN ORDER	ハイ	くば.る	232
+800	酸	ACID ・ OXYGEN	サン	す.い	232
+801	猶	DELAY	ユウ		233
+802	尊	HONOR	ソン	たっと.い ・ とうと.い ・ たっと.ぶ ・ とうと.ぶ	233
+803	遵	OBEY	ジュン		233
+804	導	GUIDE	ドウ	みちび.く	233
+805	敬	RESPECT	ケイ	うやま.う	234
+806	警	GUARD AGAINST ・ WARN	ケイ		234
+807	驚	SURPRISE	キョウ	おどろ.く ・ おどろ.かす	234
+808	散	SCATTER	サン	ち.る ・ ち.らす ・ -ち.らす ・ ち.らかす ・ ち.らかる ・ ち.らばる	234
+809	敢	BOLDLY	カン	あ.えて* ・ あ.えず*	235
+810	厳	SEVERE ・ SOLEMN	ゲン ・ ゴン	おごそ.か ・ きび.しい	235
+811	仏	BUDDHA	ブツ ・ フツ*	ほとけ	235
+812	払	CLEAR AWAY ・ PAY	フツ	はら.う ・ -はら.い ・ -ばら.い	235
+813	拡	ENLARGE	カク		236
+814	可	POSSIBLE ・ APPROVE	カ		236
+815	何	WHAT ・ HOW MANY	カ	なに ・ なん ・ なに- ・ なん-	236
+816	苛	TORMENT	カ	いじ.め* ・ いじ.める* ・ いら* ・ さいな.む*	236
+817	荷	LOAD	カ	に	237
+818	河	RIVER	カ	かわ	237
+819	阿	PHONETIC [A]	ア		237
+820	司	ADMINISTER	シ		237
+821	伺	INQUIRE	シ	うかが.う	238
+822	詞	WORDS	シ		238
+823	飼	RAISE ANIMALS	シ	か.う	238
+824	冊	COUNTER FOR BOOKS	サツ ・ サク		238
+825	嗣	HEIR	シ		239
+826	覗	PEEK	シ	のぞ.く	239
+827	歌	SONG ・ JAPANESE POEM	カ	うた ・ うた.う	239
+828	唄	DITTY		うた ・ うた.う	239
+829	負	BEAR ・ LOSE	フ	ま.ける ・ ま.かす ・ お.う	240
+830	敗	BE DEFEATED	ハイ	やぶ.れる	240
+831	責	RESPONSIBILITY ・ BLAME	セキ	せ.める	240
+832	積	ACCUMULATE	セキ	つ.む ・ -ずみ ・ つ.もる ・ つ.もり	240
+833	債	DEBT ・ BOND	サイ		241
+834	漬	PICKLE		つ.ける ・ つ.かる ・ -ず.け ・ -ずけ	241
+835	紡	SPIN	ボウ	つむ.ぐ	241
+836	績	ACHIEVEMENTS	セキ		241
+837	具	IMPLEMENT	グ		242
+838	真	1	シン	ま ・ ま-	242
+839	直	STRAIGHT ・ PUT STRAIGHT	チョク ・ ジキ ・ ジカ*	ただ.ちに ・ なお.す ・ -なお.す ・ なお.る ・ す.ぐ*	242
+840	植	PLANT	ショク	う.える ・ う.わる	242
+841	殖	MULTIPLY	ショク	ふ.える ・ ふ.やす	243
+842	値	VALUE	チ	ね ・ あたい	243
+843	置	PLACE	チ	お.く ・ -お.き	243
+844	県	PREFECTURE	ケン		243
+845	州	STATE ・ SANDBAR	シュウ	す	244
+846	洲	SANDBAR	シュウ	す	244
+847	接	CONTACT	セツ	つ.ぐ	244
+848	継	SUCCEED	ケイ	つ.ぐ	244
+849	断	CUT OFF ・ DECIDE	ダン	た.つ ・ ことわ.る	245
+850	応	RESPOND TO	オウ	こた.える	245
+851	床	BED ・ FLOOR	ショウ	とこ ・ ゆか	245
+852	麻	HEMP ・ BECOME NUMB	マ	あさ	245
+853	歴	PERSONAL HISTORY	レキ		246
+854	暦	CALENDAR	レキ	こよみ	246
+855	臨	ATTEND ・ CONFRONT	リン	のぞ.む	246
+856	園	GARDEN	エン	その	246
+857	遠	DISTANT	エン ・ オン	とお.い	247
+858	与	GIVE ・ TAKE PART IN	ヨ	あた.える	247
+859	写	COPY	シャ	うつ.す ・ うつ.る	247
+860	移	MOVE	イ	うつ.る ・ うつ.す	247
+861	卸	WHOLESALE		おろ.す ・ おろし ・ おろ.し	248
+862	御	GENERAL HONORIFIC TERM	ギョ ・ ゴ	おん- ・ お-* ・ み-*	248
+863	複	COMPOUND	フク		248
+864	腹	BELLY	フク	はら ・ なか*	248
+865	復	RETURN TO	フク		249
+866	往	GO ON	オウ		249
+867	柱	PILLAR	チュウ	はしら	249
+868	征	CONQUER	セイ		249
+869	従	FOLLOW	ジュウ ・ ショウ ・ ジュ	したが.う ・ したが.える	250
+870	徒	FOLLOWER ・ FELLOW(S) ・ GOING ON FOOT	ト		250
+871	縦	VERTICAL	ジュウ	たて	250
+872	延	EXTEND ・ POSTPONE	エン	の.びる ・ の.べる ・ の.べ ・ の.ばす	250
+873	伸	STRETCH	シン	の.びる ・ の.ばす ・ の.べる	251
+874	紳	GENTLEMAN	シン		251
+875	縮	SHRINK	シュク	ちじ.む ・ ちじ.まる ・ ちじ.める ・ ちじ.れる ・ ちじ.らす	251
+876	誕	BE BORN	タン		251
+877	廷	COURT	テイ		252
+878	庭	COURTYARD ・ GARDEN	テイ	にわ	252
+879	艇	BOAT	テイ		252
+880	展	UNFOLD ・ DISPLAY	テン		252
+881	殿	PALACE ・ FORMAL HONORIFIC TITLE	デン ・ テン	との ・ -どの	253
+882	異	DIFFERENT	イ	こと ・ こと.なる	253
+883	翼	WING	ヨク	つばさ	253
+884	累	CUMULATE ・ ENCUMBER	ルイ		253
+885	塁	BASE ・ SMALL FORT	ルイ		254
+886	吏	OFFICIAL	リ		254
+887	使	USE ・ ENVOY	シ	つか.う ・ つか.い ・ -つか.い ・ -ずか.い	254
+888	史	HISTORY	シ		254
+889	更	RENEW ・ FURTHERMORE ・ GROW LATE	コウ	さら ・ さら.に ・ ふ.ける ・ ふ.かす	255
+890	便	CONVENIENT ・ POSTAL DELIVERY ・ EXCRETA	ベン ・ ビン	たよ.り	255
+891	硬	HARD	コウ	かた.い	255
+892	能	ABILITY ・ NOH DRAMA	ノウ		255
+893	態	STATE ・ POSTURE	タイ		256
+894	熊	BEAR		くま	256
+895	罷	DISCONTINUE	ヒ	や.める*	256
+896	羅	LINE UP ・ PHONETIC [RA]	ラ		256
+897	雲	CLOUD	ウン	くも ・ -ぐも	257
+898	曇	CLOUDY	ドン	くも.る	257
+899	雪	SNOW	セツ	ゆき	257
+900	雷	THUNDER	ライ	かみなり	257
+901	零	ZERO	レイ		258
+902	震	QUAKE	シン	ふる.う ・ ふる.える	258
+903	振	SWING	シン	ふ.る ・ ぶ.る ・ ふ.り ・ -ぶ.り ・ ふ.るう ・ ふ.れる	258
+904	久	OF LONG DURATION	キュウ ・ ク	ひさ.しい	258
+905	賑	FLOURISH	シン	にぎ.わう ・ にぎ.やか	259
+906	丘	HILL	キュウ	おか	259
+907	兵	SOLDIER	ヘイ ・ ヒョウ		259
+908	岳	HIGH MOUNTAIN	ガク	たけ	259
+909	浜	BEACH	ヒン	はま	260
+910	舎	HUT	シャ		260
+911	再	AGAIN	サイ ・ サ	ふたた.び	260
+912	虎	TIGER	コ	とら	260
+913	寅	THE TIGER	イン	とら	261
+914	演	PERFORM	エン		261
+915	黄	YELLOW	コウ ・ オウ	き ・ こ-	261
+916	横	SIDEWAYS ・ ARBITRARY	オウ	よこ	261
+917	構	CONSTRUCT ・ MIND	コウ	かま.える ・ かま.う	262
+918	講	LECTURE	コウ		262
+919	購	PURCHASE	コウ		262
+920	溝	CHANNEL	コウ	みぞ ・ どぶ*	262
+921	仮	TEMPORARY ・ FAKE	カ ・ ケ	かり ・ かり-	263
+922	片	FRAGMENT ・ ONE OF TWO	ヘン	かた- ・ かた	263
+923	版	PRINTING PLATE ・ PUBLISHING	ハン		263
+924	板	BOARD ・ PLATE	ハン ・ バン	いた	263
+925	販	ENGAGE IN SALES	ハン		264
+926	義	RIGHTEOUSNESS ・ MEANING ・ SUBSTITUTE	ギ		264
+927	議	DISCUSS ・ LEGISLATIVE BODY	ギ		264
+928	儀	CEREMONY	ギ		264
+929	犠	SACRIFICE	ギ		265
+930	牲	SACRIFICE	セイ		265
+931	旨	PURPORT	シ	むね ・ うま.い*	265
+932	指	FINGER ・ POINT	シ	ゆび ・ さ.す ・ -さ.し	265
+933	揮	BRANDISH	キ		266
+934	輝	SHINE BRILLIANTLY	キ	かがや.く	266
+935	刺	PIERCE	シ	さ.す ・ さ.さる ・ さ.し ・ さし	266
+936	策	SCHEME ・ MEASURE	サク		266
+937	差	DIVERGENCE	サ	さ.す ・ さ.し	267
+938	着	PUT ON ・ ARRIVE ・ STICK	チャク ・ ジャク	き.る ・ -ぎ ・ き.せる ・ -きせ ・ つ.く ・ つ.ける	267
+939	看	OBSERVE	カン		267
+940	到	ARRIVE	トウ		267
+941	倒	TOPPLE	トウ	たお.れる ・ -だお.れ ・ たお.す	268
+942	論	ARGUE ・ THEORY	ロン		268
+943	倫	MORALS	リン		268
+944	輪	WHEEL ・ RING	リン	は	268
+945	輸	TRANSPORT	ユ		269
+946	諭	ADMONISH	ユ	さと.す	269
+947	愉	PLEASED	ユ		269
+948	癒	HEAL	ユ	い.やす ・ い.える	269
+949	台	STAND ・ COUNTER FOR MACHINES AND VEHICLES ・ TAIWAN	ダイ ・ タイ		270
+950	治	GOVERN ・ CURE	ジ ・ チ	おさ.める ・ おさ.まる ・ なお.る ・ なお.す	270
+951	冶	WORK METALS	ヤ		270
+952	療	TREAT	リョウ		270
+953	僚	COLLEAGUE	リョウ		271
+954	瞭	CLEAR	リョウ		271
+955	寮	DORMITORY	リョウ		271
+956	始	BEGIN	シ	はじ.める ・ -はじ.める ・ はじ.まる	271
+957	終	END	シュウ	お.わる ・ -お.わる ・ お.える	272
+958	了	FINISH ・ COMPREHEND	リョウ		272
+959	承	AGREE TO ・ RECEIVE	ショウ	うけたまわ.る	272
+960	蒸	STEAM	ジョウ	む.す ・ む.れる ・ む.らす	272
+961	舞	DANCE	ブ	ま.う ・ -ま.う ・ まい	273
+962	隣	NEIGHBOR	リン	とな.る ・ となり	273
+963	瞬	BLINK	シュン	またた.く	273
+964	夢	DREAM	ム	ゆめ	273
+965	枝	BRANCH	シ	えだ	274
+966	技	SKILL	ギ	わざ ・	274
+967	伎	PERFORMANCE	キ ・ ギ*		274
+968	岐	DIVERGE	キ		274
+969	峠	MOUNTAIN PASS		とうげ	275
+970	阜	MOUND	フ		275
+971	急	URGENT ・ HURRY ・ SUDDEN	キュウ	いそ.ぐ ・ いそ.ぎ	275
+972	争	CONTEND	ソウ	あらそ.う	275
+973	情	EMOTION ・ ACTUAL CONDITIONS	ジョウ ・ セイ	なさ.け	276
+974	清	CLEAR	セイ ・ ショウ	きよ.い ・ きよ.まる ・ きよ.める	276
+975	晴	CLEAR SKY	セイ	は.れる ・ は.れ ・ は.れ- ・ -ば.れ ・ は.らす	276
+976	精	REFINED ・ ESSENCE ・ SPIRIT	セイ ・ ショウ		276
+977	請	REQUEST	セイ ・ シン	こ.う ・ う.ける	277
+978	静	QUIET	セイ ・ ジョウ	しず- ・ しず.か ・ しず.まる ・ しず.める	277
+979	浄	CLEAN	ジョウ		277
+980	算	CALCULATE	サン		277
+981	答	ANSWER	トウ	こた.える ・ こた.え	278
+982	符	SYMBOL	フ		278
+983	博	"EXTENSIVE ・ DOCTOR, Ph.D."	ハク ・ バク		278
+984	縛	BIND	バク	しば.る	278
+985	簿	RECORD BOOK	ボ		279
+986	薄	THIN	ハク	うす.い ・ うす- ・ -うす ・ うす.める ・ うす.まる ・ うす.らぐ ・ うす.ら- ・ うす.れる	279
+987	采	GATHER	サイ		279
+988	菜	VEGETABLE	サイ	な	279
+989	採	PICK ・ GATHER	サイ	と.る	280
+990	彩	BEAUTIFUL COLORING	サイ	いろど.る	280
+991	杉	CRYPTOMERIA		すぎ	280
+992	街	CITY QUARTER	ガイ ・ カイ	まち	280
+993	術	PRACTICAL ART	ジュツ		281
+994	述	STATE	ジュツ		281
+995	余	REMAINING ・ EXCESS	ヨ	あま.る ・ あま.り ・ あま.す	281
+996	除	RID OF	ジョ ・ ジ	のぞ.く	281
+997	徐	SLOWLY	ジョ		282
+998	叙	DESCRIBE	ジョ		282
+999	斜	OBLIQUE	シャ	なな.め	282
+1000	途	WAY	ト		282
+1001	塗	APPLY ON A SURFACE	ト	ぬ.る ・ ぬ.り	283
+1002	漆	LACQUER	シツ	うるし	283
+1003	仙	HERMIT	セン		283
+1004	垂	HANG DOWN	スイ	た.れる ・ た.らす ・ た.れ ・ -た.れ	283
+1005	乗	RIDE	ジョウ	の.る ・ -の.り ・ の.せる	284
+1006	兼	COMBINE ・ CANNOT	ケン	か.ねる ・ -か.ねる	284
+1007	剰	SURPLUS	ジョウ		284
+1008	睡	SLEEP	スイ		284
+1009	眠	SLEEP	ミン	ねむ.る ・ ねむ.い	285
+1010	郵	MAIL	ユウ		285
+1011	錘	SPINDLE	スイ	つむ	285
+1012	華	FLOWER ・ MAGNIFICENT ・ CHINA	カ ・ ケ	はな	285
+1013	侵	INVADE	シン	おか.す	286
+1014	浸	SOAK	シン	ひた.す ・ ひた.る	286
+1015	寝	GO TO SLEEP	シン	ね.る ・ ね.かす ・ ね.かせる	286
+1016	掃	SWEEP	ソウ	は.く	286
+1017	婦	ADULT WOMAN	フ		287
+1018	帰	RETURN	キ	かえ.る ・ かえ.す	287
+1019	戻	RETURN	レイ	もど.す ・ もど.る	287
+1020	涙	TEAR	ルイ	なみだ	287
+1021	射	SHOOT	シャ	い.る ・ さ.す*	288
+1022	謝	THANK ・ APOLOGIZE	シャ	あやま.る	288
+1023	討	STUDY ・ SUPPRESS BY ARMED FORCE	トウ	う.つ	288
+1024	訂	REVISE	テイ		288
+1025	打	STRIKE	ダ	う.つ ・ う.ち-	289
+1026	撃	STRIKE	ゲキ	う.つ	289
+1027	拭	WIPE	ショク	ふ.く ・ ぬぐ.う	289
+1028	試	TRY	シ	こころ.みる ・ ため.す	289
+1029	検	EXAMINE	ケン		290
+1030	験	TEST	ケン ・ ゲン		290
+1031	険	DANGEROUS ・ STEEP	ケン	けわ.しい	290
+1032	倹	FRUGAL	ケン		290
+1033	剣	SWORD	ケン	つるぎ	291
+1034	谷	VALLEY	コク	たに	291
+1035	欲	DESIRE	ヨク	ほっ.する ・ ほ.しい	291
+1036	浴	BATHE	ヨク	あ.びる ・ あ.びせる	291
+1037	容	COUNTENANCE ・ CONTAIN	ヨウ		292
+1038	溶	DISSOLVE ・ MELT	ヨウ	と.ける ・ と.かす ・ と.く	292
+1039	俗	POPULAR	ゾク		292
+1040	裕	ABUNDANT	ユウ		292
+1041	寛	LENIENT	カン		293
+1042	甘	SWEET	カン	あま.い ・ あま.える ・ あま.やかす	293
+1043	紺	DARK BLUE	コン		293
+1044	紅	CRIMSON	コウ ・ ク	べに ・ くれない	293
+1045	攻	ATTACK	コウ	せ.める	294
+1046	功	MERIT	コウ ・ ク		294
+1047	巧	SKILLFUL	コウ	たく.み	294
+1048	朽	DECAY	キュウ	くち.る	294
+1049	枯	WITHER	コ	か.れる ・ か.らす	295
+1050	汚	DIRTY	オ	けが.す ・ けが.れる ・ けが.らわしい ・ よご.す ・ よご.れる ・ きたな.い	295
+1051	升	&lt;SHO&gt; (1.8L)	ショウ	ます	295
+1052	弁	SPEAK ・ MANAGE ・ VALVE	ベン		295
+1053	昇	ASCEND	ショウ	のぼ.る	296
+1054	登	ASCEND ・ ATTEND ・ REGISTER	トウ ・ ト	のぼ.る	296
+1055	澄	LIMPID	チョウ	す.む ・ す.ます ・ -す.ます	296
+1056	充	FILL ・ ALLOT	ジュウ	あ.てる	296
+1057	銃	GUN	ジュウ		297
+1058	統	UNITE ・ INTERCONNECTED SYSTEM	トウ	す.べる	297
+1059	流	FLOW ・ CURRENT ・ STYLE	リュウ ・ ル	なが.れる ・ なが.れ ・ なが.す ・ -なが.す	297
+1060	硫	SULFUR	リュウ		297
+1061	盲	BLIND	モウ		298
+1062	忘	FORGET	ボウ	わす.れる	298
+1063	忙	BUSY	ボウ	いそが.しい	298
+1064	荒	WILD	コウ	あら.い ・ あら- ・ あ.れる ・ あ.らす ・ -あ.らし	298
+1065	慌	FLURRIED	コウ	あわ.てる ・ あわ.ただしい	299
+1066	望	HOPE ・ LOOK AFAR	ボウ ・ モウ	のぞ.む	299
+1067	希	RARE ・ ASPIRE	キ	まれ*	299
+1068	稀	RARE	キ ・ ケ	まれ	299
+1069	括	LUMP TOGETHER	カツ		300
+1070	拘	ARREST	コウ	かか.わる*	300
+1071	拾	PICK UP	シュウ ・ ジュウ	ひろ.う	300
+1072	捨	DISCARD	シャ	す.てる	300
+1073	孤	SOLITARY	コ		301
+1074	弧	ARC	コ		301
+1075	弾	PROJECTILE ・ SPRING BACK	ダン	ひ.く ・ -ひ.き ・ はず.む ・ たま	301
+1076	禅	ZEN	ゼン		301
+1077	系	SYSTEM ・ LINEAGE	ケイ		302
+1078	係	CONNECT ・ PERSON IN CHARGE	ケイ	かか.る ・ かかり ・ -がかり ・ かか.わる*	302
+1079	孫	GRANDCHILD	ソン	まご	302
+1080	懸	SUSPEND	ケン ・ ケ	か.ける ・ か.かる	302
+1081	偏	ONE-SIDED	ヘン	かたよ.る	303
+1082	遍	ALL OVER ・ COUNTER FOR TIMES	ヘン		303
+1083	編	COMPILE ・ KNIT	ヘン	あ.む ・ -あ.み	303
+1084	篇	VOLUME	ヘン		303
+1085	普	WIDESPREAD	フ		304
+1086	譜	SYSTEMATIC RECORD	フ		304
+1087	職	EMPLOYMENT	ショク		304
+1088	織	WEAVE	ショク ・ シキ	お.る ・ お.り ・ おり ・ -おり ・ -お.り	304
+1089	識	DISCRIMINATE ・ KNOWLEDGE	シキ		305
+1090	殉	DIE A MARTYR	ジュン		305
+1091	退	RETREAT	タイ	しりぞ.く ・ しりぞ.ける	305
+1092	眼	EYE	ガン ・ ゲン	まなこ ・ め*	305
+1093	智	WISDOM	チ		306
+1094	仁	HUMANENESS	ジン ・ ニ		306
+1095	忍	BEAR	ニン	しの.ぶ ・ しの.ばせる	306
+1096	認	RECOGNIZE	ニン	みと.める	306
+1097	求	SEEK	キュウ	もと.める	307
+1098	救	SAVE	キュウ	すく.う	307
+1099	球	BALL	キュウ	たま	307
+1100	屯	STATION TROOPS	トン		307
+1101	純	PURE	ジュン		308
+1102	鈍	DULL	ドン	にぶ.い ・ にぶ.る ・ にぶ-	308
+1103	召	SUMMON	ショウ	め.す	308
+1104	招	INVITE	ショウ	まね.く	308
+1105	沼	MUDDY POND	ショウ	ぬま	309
+1106	紹	INTRODUCE	ショウ		309
+1107	詔	IMPERIAL EDICT	ショウ		309
+1108	勅	IMPERIAL DECREE	チョク		309
+1109	昭	LUMINOUS	ショウ		310
+1110	照	ILLUMINATE ・ EXAMINE BY COMPARISON	ショウ	て.る ・ て.らす ・ て.れる	310
+1111	超	SURPASS	チョウ	こ.える ・ こ.す	310
+1112	越	GO BEYOND	エツ	こ.す ・ -こ.す ・ -ご.し ・ こ.える ・ -ご.え	310
+1113	趣	PURPORT ・ FLAVOR	シュ	おもむき	311
+1114	赴	PROCEED TO	フ	おもむ.く	311
+1115	訃	DEATH REPORT	フ		311
+1116	朴	SIMPLE	ボク		311
+1117	掛	SET ・ HANG		か.ける ・ -か.ける ・ か.け ・ -か.け ・ -が.け ・ か.かる ・ -か.かる ・ -が.かる ・ か.かり ・ -が.かり ・ かかり ・ -がかり	312
+1118	摘	PICK	テキ	つ.む	312
+1119	滴	DROP	テキ	しずく ・ したた.る	312
+1120	嫡	LEGITIMATE WIFE/CHILD	チャク		312
+1121	適	FIT	テキ		313
+1122	敵	ENEMY	テキ	かたき	313
+1123	授	CONFER ・ INSTRUCT	ジュ	さず.ける ・ さず.かる	313
+1124	援	AID	エン		313
+1125	媛	DAMSEL	エン	ひめ	314
+1126	緩	SLACK	カン	ゆる.い ・ ゆる.やか ・ ゆる.む ・ ゆる.める	314
+1127	暖	WARM	ダン ・ ノン*	あたた.か ・ あたた.かい ・ あたた.まる ・ あたた.める	314
+1128	観	VIEW	カン		314
+1129	勧	URGE	カン	すす.める	315
+1130	権	RIGHT ・ POWER	ケン ・ ゴン		315
+1131	歓	JOYOUS	カン		315
+1132	鶴	CRANE	カク*	つる	315
+1133	確	CERTAIN	カク	たし.か ・ たし.かめる	316
+1134	慢	ARROGANT ・ SLUGGISH	マン		316
+1135	漫	RAMBLING ・ COMIC	マン		316
+1136	卯	THE HARE	ボウ	う	316
+1137	抑	SUPPRESS	ヨク	おさ.える	317
+1138	仰	LOOK UP	ギョウ ・ コウ	あお.ぐ ・ おお.せ	317
+1139	迎	WELCOME	ゲイ	むか.える	317
+1140	柳	WILLOW	リュウ	やなぎ	317
+1141	卵	EGG	ラン	たまご	318
+1142	疎	SCATTERED ・ ESTRANGED	ソ	うと.い ・ うと.む	318
+1143	速	QUICK	ソク	はや.い ・ はや- ・ はや.める ・ はや.まる ・ すみ.やか	318
+1144	遅	SLOW ・ LATE	チ	おく.れる ・ おく.らす ・ おそ.い	318
+1145	辻	CROSSROAD		つじ	319
+1146	迅	SWIFT	ジン		319
+1147	加	ADD	カ	くわ.える ・ くわ.わる	319
+1148	減	DECREASE	ゲン	へ.る ・ へ.らす	319
+1149	滅	EXTINGUISH	メツ	ほろ.びる ・ ほろ.ぶ ・ ほろ.ぼす	320
+1150	威	MIGHT ・ THREATEN BY FORCE	イ		320
+1151	嚇	INTIMIDATE	カク		320
+1152	或	A CERTAIN	ワク	あ.る ・ ある.いわ	320
+1153	惑	BEWILDERED	ワク	まど.う	321
+1154	域	BOUNDED AREA	イキ		321
+1155	収	TAKE IN	シュウ	おさ.める ・ おさ.まる	321
+1156	納	PAY ・ ACCEPT ・ PUT IN PLACE	ノウ ・ ナッ- ・ ナ ・ ナン ・ トウ	おさ.める ・ -おさ.める ・ おさ.まる	321
+1157	献	OFFER	ケン ・ コン		322
+1158	貢	TRIBUTE	コウ ・ ク	みつ.ぐ	322
+1159	貪	COVET	ドン	むさぼ.る	322
+1160	貰	GET	セイ	もら.う	322
+1161	貧	POOR	ヒン ・ ビン	まず.しい	323
+1162	賃	WAGES ・ CHARGES	チン		323
+1163	貸	LEND	タイ	か.す ・ か.し- ・ かし-	323
+1164	貨	MONEY ・ GOODS	カ		323
+1165	資	RESOURCES	シ		324
+1166	賛	APPROVE OF ・ PRAISE	サン		324
+1167	替	REPLACE	タイ	か.える ・ か.え- ・ か.わる	324
+1168	潜	SUBMERGE ・ LURK	セン	ひそ.む ・ もぐ.る	324
+1169	貿	TRADE	ボウ		325
+1170	留	KEEP IN PLACE ・ STAY	リュウ ・ ル	と.める ・ -と.める ・ -ど.め ・ と.まる ・ とど.まる*	325
+1171	溜	ACCUMULATE	リュウ	た.まる ・ た.める	325
+1172	賀	CONGRATULATE	ガ		325
+1173	架	LAY ACROSS	カ	か.ける ・ か.かる	326
+1174	染	DYE	セン	そ.める ・ -ぞ.め ・ -ぞめ ・ そ.まる ・ し.みる ・ -じ.みる ・ し.み	326
+1175	梨	PEAR	リ*	なし	326
+1176	傑	PERSON OF EXCELLENCE	ケツ		326
+1177	貴	NOBLE ・ YOUR HONORABLE	キ	たっと.い ・ とうと.い ・ たっと.ぶ ・ とうと.ぶ	327
+1178	潰	CRUSH	カイ	つぶ.す ・ つぶ.れる	327
+1179	遺	LEAVE BEHIND	イ ・ ユイ		327
+1180	遣	DISPATCH ・ USE	ケン	つか.う ・ -つか.い ・ -ず.かい ・ つか.わす	327
+1181	追	CHASE	ツイ	お.う	328
+1182	迫	PRESS	ハク	せま.る	328
+1183	泊	STAY OVERNIGHT	ハク	と.まる ・ と.める	328
+1184	伯	OLDER SIBLING OF PARENT ・ COUNT	ハク		328
+1185	拍	BEAT	ハク ・ ヒョウ		329
+1186	弔	CONDOLE	チョウ	とむら.う	329
+1187	沸	BOIL	フツ	わ.く ・ わ.かす	329
+1188	煮	BOIL	シャ	に.る ・ -に ・ に.える ・ に.やす	329
+1189	費	SPEND	ヒ	つい.やす ・ つい.える	330
+1190	弟	YOUNGER BROTHER	テイ ・ ダイ ・ デ	おとうと	330
+1191	第	ORDINAL NUMBER PREFIX	ダイ		330
+1192	剃	SHAVE	テイ	そ.る ・ す.る	330
+1193	兄	OLDER BROTHER	ケイ ・ キョウ	あに	331
+1194	只	FREE OF CHARGE ・ JUST	シ	ただ ・ ただ-	331
+1195	税	TAX	ゼイ		331
+1196	鋭	SHARP	エイ	するど.い	331
+1197	説	EXPLAIN ・ THEORY	セツ ・ ゼイ	と.く	332
+1198	脱	REMOVE ・ ESCAPE FROM	ダツ	ぬ.ぐ ・ ぬ.げる	332
+1199	閲	REVIEW	エツ		332
+1200	祝	CELEBRATE	シュク ・ シュウ	いわ.う	332
+1201	況	CONDITIONS	キョウ		333
+1202	悦	DELIGHTED	エツ		333
+1203	克	OVERCOME	コク		333
+1204	競	COMPETE	キョウ ・ ケイ	きそ.う ・ せ.る	333
+1205	姉	OLDER SISTER	シ	あね	334
+1206	妹	YOUNGER SISTER	マイ	いもうと	334
+1207	珠	PEARL	シュ		334
+1208	殊	SPECIAL	シュ	こと	334
+1209	序	INTRODUCTORY PART ・ ORDER	ジョ		335
+1210	秩	ORDER	チツ		335
+1211	迭	ALTERNATE	テツ		335
+1212	喜	HAPPY	キ	よろこ.ぶ ・ よろこ.ばす	335
+1213	善	GOOD	ゼン	よ.い	336
+1214	繕	MEND	ゼン	つくろ.う	336
+1215	膳	SMALL FOOD TABLE	ゼン		336
+1216	憾	STRONGLY REGRET	カン		336
+1217	恨	HOLD A GRUDGE	コン	うら.む ・ うら.めしい	337
+1218	惜	REGRET	セキ	お.しい ・ お.しむ	337
+1219	措	DISPOSE	ソ		337
+1220	借	BORROW	シャク	か.りる	337
+1221	錯	MIXED UP	サク		338
+1222	曽	BEFORE	ソウ ・ ソ ・ ゾ		338
+1223	増	INCREASE	ゾウ	ま.す ・ ま.し ・ ふ.える ・ ふ.やす	338
+1224	層	STRATUM	ソウ		338
+1225	憎	HATE	ゾウ	にく.む ・ にく.い ・ にく.らしい ・ にく.しみ	339
+1226	僧	BONZE	ソウ		339
+1227	贈	PRESENT A GIFT	ゾウ ・ ソウ	おく.る	339
+1228	賄	BRIBE	ワイ	まかな.う	339
+1229	賂	BRIBE	ロ		340
+1230	賦	INSTALLMENT	フ		340
+1231	賊	BANDIT	ゾク		340
+1232	帯	BELT ・ WEAR	タイ	お.びる ・ おび	340
+1233	滞	STAGNATE ・ STAY	タイ	とどこおる	341
+1234	渋	NOT GO SMOOTHLY ・ ASTRINGENT	ジュウ	しぶ ・ しぶ.い ・ しぶ.る	341
+1235	摂	TAKE IN ・ ACT AS REGENT	セツ	と.る*	341
+1236	為	DO ・ SAKE	イ	ため* ・ な.す*	341
+1237	偽	FALSIFY	ギ	いつわ.る ・ にせ	342
+1238	参	PARTICIPATE ・ VISIT A HOLY PLACE	サン ・ シン*	まい.る	342
+1239	惨	MISERABLE ・ CRUEL	サン ・ ザン	みじ.め	342
+1240	呂	PHONETIC [RO]	ロ		342
+1241	侶	COMPANION	リョ		343
+1242	宮	ROYAL PALACE ・ SHINTO SHRINE	キュウ ・ グウ ・ ク	みや	343
+1243	営	OPERATE ・ BARRACKS	エイ	いとな.む	343
+1244	蛍	FIREFLY	ケイ	ほたる	343
+1245	栄	FLOURISH ・ GLORY	エイ	さか.える ・ は.え ・ -ば.え ・ は.える	344
+1246	誉	HONOR	ヨ	ほま.れ	344
+1247	挙	NOMINATE ・ NOTEWORTHY ACT ・ RAISE	キョ	あ.げる ・ あ.がる	344
+1248	拳	FIST	ケン ・ ゲン*	こぶし	344
+1249	桜	CHERRY	オウ	さくら	345
+1250	妥	COME TO TERMS	ダ		345
+1251	咲	BLOOM		さ.く ・ -ざ.き	345
+1252	朕	IMPERIAL WE	チン		345
+1253	茎	STEM	ケイ	くき	346
+1254	径	PATH ・ DIAMETER	ケイ		346
+1255	怪	MYSTERIOUS	カイ ・ ケ*	あや.しい ・ あや.しむ	346
+1256	軽	LIGHT	ケイ	かる.い ・ かろ.やか	346
+1257	経	PASS THROUGH ・ MANAGE ・ SUTRA	ケイ ・ キョウ	へ.る ・ た.つ*	347
+1258	斉	EQUAL	セイ		347
+1259	斎	OBSERVE RELIGIOUS ABSTINENCE ・ STUDY	サイ		347
+1260	済	SETTLE ・ RELIEVE	サイ	す.む ・ -ず.み ・ -ずみ ・ す.まない ・ す.ます ・ -す.ます ・ す.ませる	347
+1261	剤	PREPARATION	ザイ		348
+1262	剖	DISSECT	ボウ		348
+1263	陪	ATTEND UPON A SUPERIOR	バイ		348
+1264	培	CULTIVATE	バイ	つちか.う	348
+1265	賠	COMPENSATE	バイ		349
+1266	貼	STICK ON	チョウ ・ テン*	は.る ・ -ば.り	349
+1267	粘	STICKY	ネン	ねば.る	349
+1268	衡	BALANCE	コウ		349
+1269	換	EXCHANGE	カン	か.える ・ -か.える ・ か.わる	350
+1270	喚	CALL	カン		350
+1271	絶	BREAK OFF ・ COME TO AN END ・ WITHOUT MATCH	ゼツ	た.える ・ た.やす ・ た.つ	350
+1272	免	EXEMPTION	メン	まぬか.れる ・ まぬが.れる	350
+1273	逸	LET SLIP	イツ		351
+1274	勉	ENDEAVOR	ベン		351
+1275	晩	EVENING	バン		351
+1276	許	PERMIT	キョ	ゆる.す	351
+1277	象	PHENOMENON ・ ELEPHANT	ショウ ・ ゾウ		352
+1278	像	IMAGE	ゾウ		352
+1279	彫	CARVE	チョウ	ほ.る ・ -ぼ.り	352
+1280	景	SCENE	ケイ		352
+1281	影	SHADOW	エイ	かげ	353
+1282	撮	PHOTOGRAPH	サツ	と.る ・ -ど.り	353
+1283	就	SET ABOUT	シュウ ・ ジュ	つ.く ・ つ.ける	353
+1284	涼	COOL	リョウ	すず.しい ・ すず.む	353
+1285	鯨	WHALE	ゲイ	くじら	354
+1286	隔	SEPARATE	カク	へだ.てる ・ へだ.たる	354
+1287	融	FUSE ・ FINANCE	ユウ		354
+1288	肖	LIKENESS	ショウ		354
+1289	消	EXTINGUISH ・ SPEND	ショウ	き.える ・ け.す	355
+1290	硝	NITER	ショウ		355
+1291	梢	TIP OF A TWIG	ショウ	こずえ	355
+1292	削	CUT BY CHIPPING	サク	けず.る	355
+1293	宵	EARLY EVENING	ショウ	よい	356
+1294	宴	BANQUET	エン		356
+1295	郷	HOMETOWN	キョウ ・ ゴウ	さと*	356
+1296	饗	BANQUET	キョウ		356
+1297	響	REVERBERATE	キョウ	ひび.く	357
+1298	城	CASTLE	ジョウ	しろ	357
+1299	誠	SINCERITY	セイ	まこと	357
+1300	盛	PROSPER	セイ ・ ジョウ	も.る ・ さか.る ・ さか.ん	357
+1301	旺	FLOURISHING	オウ		358
+1302	盆	TRAY ・ BON FESTIVAL	ボン		358
+1303	蓋	LID	ガイ	ふた	358
+1304	盗	STEAL	トウ	ぬす.む	358
+1305	盟	ALLIANCE	メイ		359
+1306	塩	SALT	エン	しお	359
+1307	傷	WOUND	ショウ	きず ・ いた.む ・ いた.める	359
+1308	揚	RAISE HIGH ・ FRY	ヨウ	あ.げる ・ -あ.げ ・ あ.がる	359
+1309	暢	FLUENT	チョウ		360
+1310	陽	SUN ・ POSITIVE	ヨウ	ひ	360
+1311	陰	SHADOW ・ NEGATIVE	イン	かげ ・ かげ.る	360
+1312	隠	HIDE	イン	かく.す ・ かく.し- ・ かく.れる	360
+1313	穏	CALM ・ MILD	オン	おだ.やか	361
+1314	穂	SPIKE	スイ	ほ	361
+1315	稲	RICE PLANT	トウ	いね ・ いな-	361
+1316	愁	MELANCHOLY	シュウ	うれ.える ・ うれ.い	361
+1317	裁	CUT OUT ・ JUDGE	サイ	た.つ ・ さば.く	362
+1318	載	LOAD ・ PUT IN PRINT	サイ	の.せる ・ の.る	362
+1319	栽	PLANTING	サイ		362
+1320	赦	AMNESTY	シャ		362
+1321	跡	TRACE	セキ	あと	363
+1322	踪	TRACE	ソウ		363
+1323	痕	SCAR	コン	あと	363
+1324	蹴	KICK	シュウ	け.る	363
+1325	踊	DANCE	ヨウ	おど.る ・ おど.り	364
+1326	踏	TREAD	トウ	ふ.む ・ ふ.まえる	364
+1327	躍	LEAP	ヤク	おど.る	364
+1328	濯	RINSE	タク		364
+1329	奇	UNUSUAL	キ		365
+1330	寄	CONTRIBUTE ・ DRAW NEAR	キ	よ.る ・ -よ.り ・ よ.せる	365
+1331	騎	RIDE ON HORSEBACK	キ		365
+1332	椅	CHAIR	イ		365
+1333	崎	PROMONTORY		さき	366
+1334	埼	PROMONTORY	キ*	さい	366
+1335	岬	CAPE		みさき	366
+1336	模	PATTERN	モ ・ ボ		366
+1337	膜	MEMBRANE	マク		367
+1338	漠	DESERT ・ OBSCURE	バク		367
+1339	幕	CURTAIN ・ SHOGUNATE	マク ・ バク		367
+1340	墓	GRAVE	ボ	はか	367
+1341	募	RAISE	ボ	つの.る	368
+1342	暮	DUSK ・ LIVE	ボ	く.れる ・ く.らす	368
+1343	慕	ADORE	ボ	した.う	368
+1344	添	ADD TO	テン	そ.える ・ そ.う	368
+1345	恭	RESPECTFUL	キョウ	うやうや.しい	369
+1346	暴	VIOLENT ・ DISCLOSE	ボウ ・ バク	あば.く ・ あば.れる	369
+1347	爆	EXPLODE	バク		369
+1348	沿	ALONG(SIDE)	エン	そ.う ・ -ぞ.い	369
+1349	礎	FOUNDATION STONE	ソ	いしずえ	370
+1350	疑	DOUBT	ギ	うたが.う	370
+1351	凝	CONGEAL	ギョウ	こ.る ・ こ.らす	370
+1352	擬	IMITATE	ギ		370
+1353	倣	COPY AFTER	ホウ	なら.う	371
+1354	似	RESEMBLE	ジ	に.る	371
+1355	俵	STRAW SACK	ヒョウ	たわら	371
+1356	俺	I		おれ	371
+1357	庵	HERMITAGE	アン	いおり	372
+1358	僕	I ・ MANSERVANT	ボク		372
+1359	撲	DEAL A BLOW	ボク		372
+1360	叩	STRIKE	コウ	たた.く	372
+1361	伐	CUT DOWN	バツ		373
+1362	閥	CLIQUE	バツ		373
+1363	闘	FIGHT	トウ	たたか.う	373
+1364	闇	DARK	アン*	やみ	373
+1365	閑	LEISURE ・ QUIET	カン		374
+1366	脈	VEIN ・ PULSE	ミャク		374
+1367	派	SECT ・ DISPATCH	ハ		374
+1368	缶	CAN	カン		374
+1369	揺	SHAKE	ヨウ	ゆ.れる ・ ゆ.る ・ ゆ.らぐ ・ ゆ.るぐ ・ ゆ.する ・ ゆ.さぶる ・ ゆ.すぶる	375
+1370	謡	POPULAR SONG	ヨウ	うたい ・ うた.う	375
+1371	遥	FAR	ヨウ	はる.か	375
+1372	陶	POTTERY	トウ		375
+1373	陳	SET FORTH	チン		376
+1374	陣	BATTLE FORMATION ・ CAMP	ジン		376
+1375	陥	FALL IN [INTO]	カン	おちい.る ・ おとしい.れる	376
+1376	隆	PROSPER	リュウ		376
+1377	降	DESCEND	コウ	お.りる ・ お.ろす ・ ふ.る ・ ふ.り	377
+1378	峰	PEAK	ホウ	みね	377
+1379	逢	MEET	ホウ	あ.う	377
+1380	縫	SEW	ホウ	ぬ.う	377
+1381	蜂	BEE	ホウ	はち	378
+1382	蜜	HONEY	ミツ		378
+1383	密	CLOSE ・ SECRET	ミツ		378
+1384	秘	SECRET	ヒ	ひ.める	378
+1385	欧	EUROPE	オウ		379
+1386	枢	PIVOT	スウ		379
+1387	殴	BEAT	オウ	なぐ.る	379
+1388	駆	DRIVE	ク	か.ける ・ か.る	379
+1389	馳	GALLOP	チ	は.せる	380
+1390	騒	CLAMOR	ソウ	さわ.ぐ	380
+1391	旭	RISING SUN	キョク	あさひ	380
+1392	旦	DAWN	タン ・ ダン		380
+1393	但	PROVIDED THAT		ただ.し	381
+1394	担	BEAR ON SHOULDER ・ UNDERTAKE	タン	かつ.ぐ ・ にな.う	381
+1395	亘	SPAN	コウ	わた.る	381
+1396	恒	CONSTANT	コウ		381
+1397	垣	FENCE		かき	382
+1398	宣	PROCLAIM	セン		382
+1399	喧	CLAMOROUS	ケン	かまびす.しい ・ やかま.しい	382
+1400	嘩	NOISY	カ		382
+1401	唾	SALIVA	ダ	つば	383
+1402	壷	JAR	コ	つぼ	383
+1403	坪	&lt;TSUBO&gt; (about 3.3 square meters)		つぼ	383
+1404	畔	WATERSIDE	ハン		383
+1405	衆	MULTITUDE	シュウ ・ シュ		384
+1406	伊	PHONETIC [I]	イ		384
+1407	君	RULER ・ FAMILIAR TITLE ・ YOU	クン	きみ ・ -ぎみ	384
+1408	群	GROUP	グン	む.れる ・ む.れ ・ むら ・ むら.がる	384
+1409	郡	COUNTY	グン		385
+1410	那	PHONETIC [NA]	ナ		385
+1411	邦	STATE ・ JAPAN	ホウ		385
+1412	郊	SUBURB	コウ		385
+1413	効	EFFECT	コウ	き.く	386
+1414	絞	STRANGLE ・ WRING	コウ	しぼ.る ・ し.める ・ し.まる	386
+1415	搾	SQUEEZE	サク	しぼ.る	386
+1416	紋	CREST	モン		386
+1417	菊	CHRYSANTHEMUM	キク		387
+1418	帝	EMPEROR	テイ		387
+1419	締	CONCLUDE ・ TIGHTEN	テイ	し.まる ・ し.まり ・ し.める ・ -し.め ・ -じ.め	387
+1420	諦	GIVE UP	テイ	あきら.める	387
+1421	享	ENJOY	キョウ		388
+1422	郭	OUTER ENCLOSURE	カク		388
+1423	亭	INN ・ PSEUDONYM SUFFIX	テイ		388
+1424	停	STOP	テイ		388
+1425	昆	INSECT	コン		389
+1426	混	MIX	コン	ま.じる ・ -ま.じり ・ ま.ざる ・ ま.ぜる ・ こ.む	389
+1427	皆	ALL	カイ	みな ・ みんな*	389
+1428	楷	BLOCK CHARACTER STYLE	カイ		389
+1429	諧	HARMONY	カイ		390
+1430	階	FLOOR ・ RANK	カイ		390
+1431	陛	IMPERIAL PALACE STEPS	ヘイ		390
+1432	陸	LAND	リク		390
+1433	睦	FRIENDLY	ボク	むつ.まじい* ・ むつ.む*	391
+1434	勢	POWER ・ CONDITION	セイ	いきお.い	391
+1435	熱	HEAT	ネツ	あつ.い	391
+1436	熟	MATURE	ジュク	う.れる	391
+1437	塾	PRIVATE SCHOOL	ジュク		392
+1438	陵	IMPERIAL MAUSOLEUM	リョウ	みささぎ	392
+1439	菱	RHOMBUS	リョウ	ひし	392
+1440	俊	BRILLIANT PERSON	シュン		392
+1441	唆	INSTIGATE	サ	そそのか.す	393
+1442	筈	TO BE EXPECTED	カツ	はず	393
+1443	箸	CHOPSTICKS	チョ*	はし	393
+1444	暑	HOT	ショ	あつ.い	393
+1445	署	GOVERNMENT OFFICE ・ SIGN ONE'S NAME	ショ		394
+1446	曙	DAWN	ショ ・ ジョ	あけぼの	394
+1447	賭	WAGER	ト	か.ける	394
+1448	諸	VARIOUS	ショ		394
+1449	儲	PROFIT	チョ	もう.ける ・ もう.かる ・ もうけ	395
+1450	緒	OUTSET ・ LINE	ショ ・ チョ	お	395
+1451	翁	OLD MAN	オウ		395
+1452	婆	OLD WOMAN	バ	ばあ	395
+1453	姿	FIGURE	シ	すがた	396
+1454	恣	ARBITRARY	シ		396
+1455	妄	RASH	モウ ・ ボウ		396
+1456	萎	WILT	イ	なえ.る ・ しぼ.む* ・ しお.れる* ・ しな.びる*	396
+1457	妻	WIFE	サイ	つま	397
+1458	凄	TREMENDOUS	セイ	すご.い* ・ すさ.まじい* ・ すご.む*	397
+1459	章	CHAPTER ・ BADGE	ショウ		397
+1460	彰	PROCLAIM MERITS	ショウ		397
+1461	障	HINDRANCE	ショウ	さわ.る	398
+1462	辛	PUNGENT ・ HARD	シン	から.い ・ つら.い*	398
+1463	宰	PRESIDE	サイ		398
+1464	辣	SHARP	ラツ		398
+1465	辞	WORD ・ RESIGN	ジ	や.める	399
+1466	壁	WALL	ヘキ	かべ	399
+1467	璧	MAGNIFICENT JEWEL	ヘキ		399
+1468	癖	HABIT	ヘキ	くせ	399
+1469	避	AVOID	ヒ	さ.ける	400
+1470	幸	GOOD FORTUNE ・ HAPPINESS	コウ	さいわ.い ・ さち ・ しあわ.せ	400
+1471	服	CLOTHES ・ SUBMIT	フク		400
+1472	報	REPORT ・ REQUITE	ホウ	むく.いる ・ むく.う	400
+1473	執	EXECUTE ・ SEIZE	シツ ・ シュウ	と.る	401
+1474	摯	SINCERE	シ		401
+1475	達	ATTAIN ・ PLURAL SUFFIX	タツ	-たち*	401
+1476	朗	CHEERFUL ・ CLEAR	ロウ	ほが.らか	401
+1477	浪	BILLOW ・ ROAM	ロウ		402
+1478	呉	KINGDOM OF WU ・ GIVE	ゴ	く.れる	402
+1479	娯	ENJOYMENT	ゴ		402
+1480	誤	MISTAKE	ゴ	あやま.る ・ -あやま.る	402
+1481	富	RICH	フ ・ フウ	と.む ・ とみ	403
+1482	副	SECONDARY	フク		403
+1483	幅	WIDTH	フク	はば	403
+1484	福	FORTUNE	フク		403
+1485	祉	BLESSEDNESS	シ		404
+1486	禍	CALAMITY	カ		404
+1487	渦	WHIRLPOOL	カ	うず	404
+1488	鍋	POT	カ*	なべ	404
+1489	蘭	ORCHID ・ HOLLAND	ラン		405
+1490	欄	COLUMN	ラン		405
+1491	潤	MOIST	ジュン	うるお.う ・ うるお.す ・ うる.む	405
+1492	淵	EDGE ・ DEEP POOL	エン	ふち	405
+1493	滑	SLIDE ・ SMOOTH	カツ ・ コツ	すべ.る ・ なめ.らか	406
+1494	稽	PRACTICE	ケイ		406
+1495	肩	SHOULDER	ケン	かた	406
+1496	脅	THREATEN	キョウ	おびや.かす ・ おど.す ・ おど.かす	406
+1497	肯	ASSENT	コウ		407
+1498	双	SET OF TWO	ソウ	ふた	407
+1499	江	INLET	コウ	え	407
+1500	湾	BAY	ワン		407
+1501	港	PORT	コウ	みなと	408
+1502	選	SELECT	セン	えら.ぶ	408
+1503	択	SELECT	タク		408
+1504	沢	SWAMP ・ ABUNDANT	タク	さわ	408
+1505	訳	TRANSLATE ・ SENSE	ヤク	わけ	409
+1506	釈	ELUCIDATE ・ RELEASE	シャク		409
+1507	敷	LAY	フ	し.く ・ -し.き	409
+1508	傲	PROUD	ゴウ		409
+1509	贅	LUXURY	ゼイ		410
+1510	審	EXAMINE CAREFULLY ・ TRY	シン		410
+1511	藩	FEUDAL DOMAIN	ハン		410
+1512	翻	TURN OVER ・ RENDER IN ANOTHER FORM	ホン	ひるがえ.る ・ ひるがえ.す	410
+1513	翔	SOAR	ショウ	かけ.る ・ と.ぶ	411
+1514	査	LOOK INTO	サ		411
+1515	租	LAND TAX	ソ		411
+1516	粗	COARSE	ソ	あら.い ・ あら-	411
+1517	阻	HAMPER	ソ	はば.む	412
+1518	狙	AIM AT	ソ	ねら.う	412
+1519	宜	RIGHT	ギ	よろ.しい* ・ よろ.しく*	412
+1520	畳	&lt;TATAMI&gt; (straw mat) ・ FOLD UP	ジョウ	たた.む ・ たた.み- ・ たたみ	412
+1521	甲	SHELL ・ FIRST IN A SERIES	コウ ・ カン ・ カ*		413
+1522	乙	SECOND IN A SERIES	オツ		413
+1523	丙	THIRD IN A SERIES	ヘイ		413
+1524	柄	CHARACTER ・ STATUS	ヘイ	がら	413
+1525	押	PUSH	オウ	お.す ・ お.し- ・ お.っ- ・ お.さえる	414
+1526	抽	DRAW OUT	チュウ		414
+1527	捜	LOOK FOR	ソウ	さが.す	414
+1528	届	DELIVER ・ REACH		とど.ける ・ -とど.け ・ とど.く	414
+1529	宙	SPACE ・ MIDAIR	チュウ		415
+1530	笛	FLUTE	テキ	ふえ	415
+1531	袖	SLEEVE	シュウ	そで	415
+1532	襟	COLLAR	キン	えり	415
+1533	衿	COLLAR	キン	えり	416
+1534	裾	CUFF		すそ	416
+1535	据	SET		す.える ・ す.わる	416
+1536	握	GRASP	アク	にぎ.る	416
+1537	揃	MAKE UNIFORM	セン	そろ.える ・ そろ.う ・ そろ.い ・ -ぞろ.い	417
+1538	撫	STROKE	ブ	な.でる	417
+1539	託	ENTRUST	タク		417
+1540	宅	DWELLING HOUSE	タク		417
+1541	詫	APOLOGIZE	タ	わ.びる ・ わ.び	418
+1542	宇	UNIVERSE	ウ		418
+1543	芋	POTATO		いも	418
+1544	寿	LONGEVITY ・ CONGRATULATIONS	;	ことぶき	418
+1545	鋳	CAST	チュウ	い.る	419
+1546	銘	INSCRIPTION	メイ		419
+1547	鏡	MIRROR ・ OPTICAL INSTRUMENT	キョウ	かがみ	419
+1548	境	BOUNDARY ・ SITUATION	キョウ ・ ケイ	さかい	419
+1549	環	RING ・ SURROUND	カン		420
+1550	還	RETURN	カン		420
+1551	盾	SHIELD	ジュン	たて	420
+1552	循	CIRCULATE	ジュン		420
+1553	巡	MAKE THE ROUNDS	ジュン	めぐ.る ・ めぐ.り	421
+1554	這	CRAWL	シャ	は.う	421
+1555	逓	RELAY	テイ		421
+1556	息	BREATH	ソク	いき	421
+1557	憩	TAKE A REST	ケイ	いこ.い ・ いこ.う	422
+1558	鼻	NOSE	ビ	はな	422
+1559	孔	OPEN HOLE	コウ		422
+1560	臭	BAD SMELL	シュウ	くさ.い ・ -くさ.い ・ にお.う ・ にお.い	422
+1561	嗅	SMELL	キュウ	か.ぐ	423
+1562	奥	INNER PART	オウ	おく	423
+1563	尖	POINTY	セン	とが.る ・ とん.がる	423
+1564	突	THRUST	トツ	つ.く	423
+1565	窒	CHOKE ・ NITROGEN	チツ		424
+1566	窃	STEAL	セツ		424
+1567	衝	COLLIDE	ショウ		424
+1568	契	PLEDGE	ケイ	ちぎ.る	424
+1569	喫	INGEST	キツ		425
+1570	潔	IMMACULATE	ケツ	いさぎよ.い	425
+1571	侮	INSULT	ブ	あなど.る	425
+1572	梅	JAPANESE APRICOT	バイ	うめ	425
+1573	悔	REPENT	カイ	く.いる ・ く.やむ ・ くや.しい	426
+1574	敏	NIMBLE	ビン		426
+1575	繁	THRIVE	ハン		426
+1576	繋	CONNECT	ケイ	つな.ぐ ・ つな.がる ・ かか.る	426
+1577	茂	GROW THICK	モ	しげ.る	427
+1578	橋	BRIDGE	キョウ	はし	427
+1579	矯	RECTIFY	キョウ	た.める	427
+1580	稿	MANUSCRIPT	コウ		427
+1581	縞	STRIPE	コウ	しま	428
+1582	箋	WRITING PAPER	セン		428
+1583	残	LEAVE BEHIND ・ RUTHLESS	ザン	のこ.る ・ のこ.す	428
+1584	桟	SCAFFOLD	サン		428
+1585	銭	MONEY	セン	ぜに	429
+1586	践	PUT INTO ACTION	セン		429
+1587	浅	SHALLOW	セン	あさ.い	429
+1588	洩	LEAK	エイ ・ セツ	も.る ・ も.れる ・ も.らす	429
+1589	壮	VIGOROUS ・ GRAND	ソウ		430
+1590	荘	VILLA ・ DIGNIFIED	ソウ		430
+1591	装	DRESS ・ FIT OUT	ソウ ・ ショウ	よそお.う	430
+1592	冥	DARK	メイ ・ ミョウ		430
+1593	暗	DARK	アン	くら.い	431
+1594	韻	RHYME	イン		431
+1595	損	LOSS	ソン	そこ.なう ・ -そこ.なう ・ そこ.ねる ・ -そこ.ねる	431
+1596	捕	CATCH	ホ	と.らえる ・ と.らわれる ・ と.る ・ つか.まえる ・ つか.まる	431
+1597	挿	INSERT	ソウ	さ.す	432
+1598	補	SUPPLEMENT	ホ	おぎな.う	432
+1599	浦	SEASIDE		うら	432
+1600	哺	SUCKLE	ホ		432
+1601	舗	PAVE ・ SHOP	ホ		433
+1602	掴	GRASP	カク	つか.む ・ つか.まえる ・ つか.まる	433
+1603	捉	CATCH	ソク	とら.える	433
+1604	促	HASTEN	ソク	うなが.す	433
+1605	筆	BRUSH ・ WRITING	ヒツ	ふで	434
+1606	津	HARBOR	シン	つ	434
+1607	律	LAW ・ RHYTHM	リツ ・ リチ		434
+1608	逮	CATCH A CRIMINAL	タイ		434
+1609	建	BUILD	ケン ・ コン	た.てる ・ た.て ・ -だ.て ・ た.つ	435
+1610	健	ROBUST	ケン	すこ.やか	435
+1611	康	HEALTHY	コウ		435
+1612	庸	MEDIOCRE	ヨウ		435
+1613	粛	PURGE ・ HUSHED	シュク		436
+1614	繍	EMBROIDERY	シュウ		436
+1615	唐	TANG DYNASTY	トウ	から	436
+1616	糖	SUGAR	トウ		436
+1617	粧	APPLY MAKEUP	ショウ		437
+1618	糧	FOOD PROVISIONS	リョウ ・ ロウ	かて	437
+1619	粉	POWDER	フン	こ ・ こな	437
+1620	紛	CONFUSED	フン	まぎ.れる ・ -まぎ.れ ・ まぎ.らす ・ まぎ.らわす ・ まぎ.らわしい	437
+1621	糾	INQUIRE INTO	キュウ		438
+1622	粋	REFINED	スイ	いき	438
+1623	砕	CRUSH UP	サイ	くだ.く ・ くだ.ける	438
+1624	枠	FRAME		わく	438
+1625	酔	BECOME INTOXICATED	スイ	よ.う ・ よ.い	439
+1626	醒	WAKE UP	セイ	さ.める* ・ さ.ます*	439
+1627	酬	RECIPROCATE	シュウ		439
+1628	酷	SEVERE	コク	ひど.い*	439
+1629	凡	COMMONPLACE	ボン ・ ハン		440
+1630	凧	KITE		たこ	440
+1631	帆	SAIL	ハン	ほ	440
+1632	汎	PAN-	ハン		440
+1633	恐	FEAR	キョウ	おそ.れる ・ おそ.る ・ おそ.ろしい	441
+1634	怖	FEARFUL	フ	こわ.い ・ こわ.がる	441
+1635	築	CONSTRUCT	チク	きず.く	441
+1636	尋	INQUIRE	ジン	たず.ねる	441
+1637	訊	INTERROGATE	ジン	たず.ねる ・ き.く	442
+1638	諮	CONSULT	シ	はか.る	442
+1639	抗	RESIST	コウ		442
+1640	航	NAVIGATE	コウ		442
+1641	坑	PIT	コウ		443
+1642	拝	WORSHIP ・ HUMBLY	ハイ	おが.む	443
+1643	耕	TILL	コウ	たがや.す	443
+1644	耗	WEAR AWAY	モウ ・ コウ		443
+1645	崇	REVERENCE	スウ		444
+1646	灰	ASH	カイ	はい	444
+1647	炭	COAL ・ CHARCOAL ・ CARBON	タン	すみ	444
+1648	岸	SHORE	ガン	きし	444
+1649	岩	ROCK	ガン	いわ	445
+1650	崩	CRUMBLE	ホウ	くず.れる ・ -くず.れ ・ くず.す	445
+1651	嵐	STORM		あらし	445
+1652	崖	CLIFF	ガイ	がけ	445
+1653	催	SPONSOR	サイ	もよお.す	446
+1654	焦	SCORCH ・ BE IMPATIENT	ショウ	こ.げる ・ こ.がす ・ こ.がれる ・ あせ.る	446
+1655	礁	REEF	ショウ		446
+1656	奮	ROUSE UP	フン	ふる.う	446
+1657	奪	SEIZE	ダツ	うば.う	447
+1658	隻	ONE OF A PAIR ・ COUNTER FOR SHIPS	セキ		447
+1659	獲	CATCH GAME	カク	え.る	447
+1660	穫	HARVEST	カク		447
+1661	護	PROTECT	ゴ	まも.る*	448
+1662	譲	CEDE	ジョウ	ゆず.る	448
+1663	嬢	YOUNG LADY	ジョウ		448
+1664	醸	BREW	ジョウ	かも.す	448
+1665	壌	ARABLE SOIL	ジョウ		449
+1666	壊	BREAK DOWN	カイ	こわ.す ・ こわ.れる	449
+1667	懐	BOSOM ・ LONG FOR	カイ	ふところ ・ なつ.かしい ・ なつ.かしむ ・ なつ.く ・ なつ.ける	449
+1668	徳	VIRTUE	トク		449
+1669	聴	LISTEN	チョウ	き.く	450
+1670	恥	SHAME	チ	は.じる ・ はじ ・ は.じらう ・ は.ずかしい	450
+1671	羞	SHAME	シュウ		450
+1672	爵	RANK OF NOBILITY	シャク		450
+1673	侯	FEUDAL LORD	コウ		451
+1674	喉	THROAT	コウ	のど	451
+1675	候	SEASON ・ SEASONAL WEATHER	コウ	そうろう	451
+1676	修	CULTIVATE ・ REPAIR	シュウ ・ シュ	おさ.める ・ おさ.まる	451
+1677	悠	LEISURELY	ユウ		452
+1678	是	RIGHT	ゼ		452
+1679	提	PRESENT ・ CARRY IN HAND	テイ	さ.げる	452
+1680	堤	EMBANKMENT	テイ	つつみ	452
+1681	題	HEADING ・ TOPIC ・ PROBLEM	ダイ		453
+1682	匙	SPOON	シ	さじ	453
+1683	冒	RISK	ボウ	おか.す	453
+1684	昌	CLEAR	ショウ		453
+1685	唱	SING	ショウ	とな.える	454
+1686	晶	CRYSTAL	ショウ		454
+1687	帽	HEADGEAR	ボウ		454
+1688	棟	BUILDING	トウ	むね ・ むな-	454
+1689	凍	FREEZE	トウ	こお.る ・ こご.える	455
+1690	氷	ICE	ヒョウ	こおり ・ ひ	455
+1691	永	ETERNAL	エイ	なが.い	455
+1692	泳	SWIM	エイ	およ.ぐ	455
+1693	詠	RECITE POETRY	エイ	よ.む	456
+1694	札	TAG	サツ	ふだ	456
+1695	枚	COUNTER FOR FLAT THINGS	マイ		456
+1696	杯	CUP	ハイ	さかずき	456
+1697	析	ANALYZE	セキ		457
+1698	折	BREAK (OFF) ・ FOLD	セツ	お.る ・ おり ・ お.り ・ -お.り ・ お.れる	457
+1699	挫	BREAK	ザ	くじ.く* ・ くじ.ける*	457
+1700	捻	TWIST	ネン	ひね.る* ・ ひね.くる*	457
+1701	誓	SWEAR	セイ	ちか.う	458
+1702	逝	DEPART THIS LIFE	セイ	い.く ・ ゆ.く	458
+1703	哲	WISE ・ PHILOSOPHY	テツ		458
+1704	斬	KILL	ザン	き.る	458
+1705	漸	GRADUALLY	ゼン		459
+1706	暫	SHORT WHILE	ザン	しばら.く*	459
+1707	斥	REJECT	セキ		459
+1708	訴	APPEAL TO ・ SUE	ソ	うった.える	459
+1709	訟	LITIGATE	ショウ		460
+1710	究	STUDY EXHAUSTIVELY	キュウ	きわ.める	460
+1711	窮	BE IN EXTREMITY	キュウ	きわ.める ・ きわ.まる ・ きわ.まり ・ きわ.み	460
+1712	極	EXTREME ・ POLE	キョク ・ ゴク	きわ.める ・ きわ.まる ・ きわ.まり ・ きわ.み	460
+1713	函	BOX	カン	はこ	461
+1714	探	PROBE ・ LOOK FOR	タン	さぐ.る ・ さが.す	461
+1715	深	DEEP	シン	ふか.い ・ -ぶか.い ・ ふか.まる ・ ふか.める	461
+1716	慄	TREMBLE	リツ		461
+1717	惧	FEAR	グ		462
+1718	慎	PRUDENT	シン	つつし.む	462
+1719	鎮	QUELL	チン	しず.めるしず.まる	462
+1720	塡	FILL (IN)	テン		462
+1721	婚	MARRY	コン		463
+1722	囚	PRISONER	シュウ		463
+1723	困	BE IN TROUBLE	コン	こま.る	463
+1724	梱	PACKAGE	コン		463
+1725	因	CAUSE	イン	よ.る	464
+1726	姻	MARRIAGE	イン		464
+1727	咽	THROAT	イン		464
+1728	恩	GRACE ・ DEBT OF GRATITUDE	オン		464
+1729	菌	BACTERIA	キン		465
+1730	漢	CHINESE HAN DYNASTY ・ FELLOW	カン		465
+1731	嘆	SIGH	タン	なげ.く ・ なげ.かわしい	465
+1732	勤	SERVICE	キン ・ ゴン	つと.める ・ -ずと.め ・ つと.まる	465
+1733	謹	RESPECTFULLY	キン	つつし.む	466
+1734	僅	A FEW	キン	わず.か	466
+1735	索	SEARCH FOR	サク		466
+1736	牽	PULL	ケン	ひ.く	466
+1737	牢	PRISON ・ HARDNESS	ロウ		467
+1738	啓	ENLIGHTEN ・ ADDRESS RESPECTFULLY	ケイ		467
+1739	庶	MANIFOLD	ショ		467
+1740	遮	INTERRUPT	シャ	さえ.ぎる	467
+1741	燕	SWALLOW	エン	つばめ	468
+1742	雀	SPARROW ・ MAHJONG	ジャク ・ ジャン	すずめ	468
+1743	劣	INFERIOR	レツ	おと.る	468
+1744	抄	EXCERPT	ショウ		468
+1745	秒	SECOND	ビョウ		469
+1746	妙	MARVELOUS	ミョウ		469
+1747	沙	SAND	サ	すな	469
+1748	汰	SIFT OUT	タ		469
+1749	煎	BOIL	セン	い.る	470
+1750	炒	ROAST	ショウ ・ ソウ	い.る ・ いた.める	470
+1751	炊	COOK	スイ	た.く ・ -だ.き	470
+1752	焚	KINDLE	フン	た.く	470
+1753	薪	FIREWOOD	シン	たきぎ	471
+1754	乃	POSSESSIVE PARTICLE	ナイ ・ ダイ	の ・ すなわ.ち	471
+1755	之	POSSESSIVE PARTICLE	シ	の ・ これ	471
+1756	此	THIS	シ	こ.れ ・ こ.の	471
+1757	其	THAT	キ	そ.れ ・ そ.の	472
+1758	乏	SCANTY	ボウ	とぼ.しい	472
+1759	芝	LAWN GRASS		しば	472
+1760	及	REACH TO	キュウ	およ.ぶ ・ およ.び ・ および ・ およ.ぼす	472
+1761	扱	HANDLE		あつか.う ・ あつか.い	473
+1762	級	GRADE	キュウ		473
+1763	吸	SUCK ・ BREATHE IN	キュウ	す.う	473
+1764	吹	BLOW	スイ	ふ.く	473
+1765	呼	CALL	コ	よ.ぶ	474
+1766	吐	SPEW	ト	は.く	474
+1767	叶	BE FULFILLED	キョウ ・ ギョウ	かな.う ・ かな.える	474
+1768	叱	SCOLD	シツ	しか.る	474
+1769	叫	SHOUT	キョウ	さけ.ぶ	475
+1770	吟	RECITE	ギン		475
+1771	含	CONTAIN	ガン	ふく.む ・ ふく.める	475
+1772	琴	&lt;KOTO&gt; (japanese zither)	キン	こと	475
+1773	迷	PERPLEXED	メイ	まよ.う	476
+1774	謎	RIDDLE		なぞ	476
+1775	逆	REVERSE	ギャク	さか ・ さか.さ ・ さか.らう	476
+1776	遡	GO BACK IN TIME	ソ	さかのぼ.る	476
+1777	塑	MODEL	ソ		477
+1778	勲	MERITORIOUS SERVICE	クン		477
+1779	薫	BALMY	クン	かお.る	477
+1780	芳	FRAGRANT	ホウ	かんば.しい	477
+1781	香	SWEET SMELL	コウ ・ キョウ	か ・ かお.り ・ かお.る	478
+1782	秀	EXCELLENT	シュウ	ひい.でる	478
+1783	誘	INDUCE	ユウ	さそ.う	478
+1784	拐	KIDNAP	カイ		478
+1785	透	PASS THROUGH ・ SEE THROUGH	トウ	す.く ・ す.かす ・ す.ける	479
+1786	携	CARRY IN HAND	ケイ	たずさ.える ・ たずさ.わる	479
+1787	雄	MALE ・ HEROIC	ユウ	お- ・ おす	479
+1788	雌	FEMALE	シ	め- ・ めす	479
+1789	些	A LITTLE BIT	サ	いささか ・ ち.と ・ ちっ.と	480
+1790	柴	BRUSHWOOD	サイ	しば	480
+1791	紫	PURPLE	シ	むらさき	480
+1792	髪	HAIR	ハツ	かみ	480
+1793	髭	BEARD	シ	ひげ	481
+1794	詐	SWINDLE	サ		481
+1795	欺	DECEIVE	ギ	あざむ.く	481
+1796	棋	&lt;SHOGI&gt; (japanese chess)	キ		481
+1797	碁	&lt;GO&gt; (japanese checkers)	ゴ		482
+1798	甚	EXTREMELY	ジン	はなは.だ ・ はなは.だしい	482
+1799	勘	CHECK ・ INTUITIVE PERCEPTION	カン		482
+1800	堪	ENDURE	カン	た.える ・ たま.る*	482
+1801	匹	COUNTER FOR ANIMALS	ヒツ	ひき	483
+1802	匠	CRAFTSMAN	ショウ		483
+1803	匿	CONCEAL	トク		483
+1804	諾	CONSENT	ダク		483
+1805	乞	BEG		こ.う	484
+1806	迄	UP TO	キツ	まで	484
+1807	乾	DRY	カン	かわ.く ・ かわ.かす	484
+1808	幹	TRUNK	カン	みき	484
+1809	操	MANIPULATE ・ FIDELITY	ソウ	みさお ・ あやつ.る	485
+1810	燥	DRY OUT	ソウ		485
+1811	繰	REEL ・ SHIFT ONWARD		く.る	485
+1812	藻	SEAWEED	ソウ	も	485
+1813	噴	SPOUT	フン	ふ.く	486
+1814	墳	TUMULUS	フン		486
+1815	憤	INDIGNATION	フン	いきどおる	486
+1816	牙	FANG	ガ ・ ゲ	きば	486
+1817	芽	BUD	ガ	め	487
+1818	雅	ELEGANT	ガ		487
+1819	邪	EVIL	ジャ		487
+1820	既	ALREADY	キ	すで.に	487
+1821	概	GENERAL	ガイ		488
+1822	慨	DEPLORE	ガイ		488
+1823	苗	SEEDLING	ビョウ ・ ミョウ*	なえ ・ なわ-	488
+1824	描	DEPICT	ビョウ	えが.く ・ か.く	488
+1825	猫	CAT	ビョウ	ねこ	489
+1826	萌	GERMINATE	ホウ ・ ボウ	も.える ・ きざ.す	489
+1827	兆	SIGN ・ TRILLION	チョウ	きざ.す ・ きざ.し	489
+1828	眺	GAZE	チョウ	なが.める	489
+1829	逃	ESCAPE	トウ	に.げる ・ に.がす ・ のが.す ・ のが.れる	490
+1830	桃	PEACH	トウ	もも	490
+1831	跳	JUMP	チョウ	は.ねる ・ と.ぶ ・ -と.び	490
+1832	挑	PROVOKE	チョウ	いど.む	490
+1833	拙	CLUMSY	セツ	つたな.い	491
+1834	屈	BEND	クツ	かが.む* ・ かが.める*	491
+1835	掘	DIG	クツ	ほ.る	491
+1836	堀	DITCH		ほり	491
+1837	封	SEAL ・ ENFEOFF	フウ ・ ホウ		492
+1838	筒	TUBE	トウ	つつ	492
+1839	管	PIPE ・ EXERCISE CONTROL	カン	くだ	492
+1840	棺	COFFIN	カン	ひつぎ	492
+1841	轄	EXERCISE JURISDICTION OVER	カツ		493
+1842	洞	CAVE	ドウ	ほら	493
+1843	窟	CAVE	クツ		493
+1844	淫	LEWD	イン	みだ.ら	493
+1845	妊	BECOME PREGNANT	ニン		494
+1846	娠	CONCEIVE	シン		494
+1847	唇	LIP	シン	くちびる	494
+1848	辱	HUMILIATE	ジョク	はずかし.める	494
+1849	襲	RAID ・ INHERIT	シュウ	おそ.う	495
+1850	伏	PROSTRATE	フク	ふ.せる ・ ふ.す	495
+1851	吠	HOWL	ベイ ・ ハイ	ほ.える	495
+1852	噛	BITE	ゴウ ・ コウ	か.む	495
+1853	班	SQUAD	ハン		496
+1854	斑	SPOT	ハン		496
+1855	輩	FELLOW	ハイ		496
+1856	悲	SAD	ヒ	かな.しい ・ かな.しむ	496
+1857	忽	SUDDENLY ・ CARELESS	コツ	たちま.ち	497
+1858	惚	FALL IN LOVE WITH	コツ	ほれ.る ・ ぼけ.る	497
+1859	猿	MONKEY	エン	さる	497
+1860	哀	SORROW ・ PITY	アイ	あわ.れ ・ あわ.れむ	497
+1861	衰	DECLINE	スイ	おとろ.える ・	498
+1862	衷	INNER HEART	チュウ		498
+1863	喪	MOURNING ・ LOSS	ソウ	も	498
+1864	忌	MOURNING ・ ABHOR	キ	い.む ・ い.み ・ い.まわしい	498
+1865	卓	TABLE ・ PROMINENT	タク		499
+1866	悼	MOURN	トウ	いた.む	499
+1867	貞	CHASTE	テイ		499
+1868	偵	SPY	テイ		499
+1869	覇	SUPREMACY	ハ		500
+1870	覆	COVER ・ OVERTURN	フク	おお.う ・ くつがえ.す ・ くつがえ.る	500
+1871	履	FULFILL ・ PUT ON FOOTWEAR	リ	は.く	500
+1872	属	BELONG TO	ゾク		500
+1873	嘱	CHARGE WITH	ショク		501
+1874	偶	BY CHANCE ・ COUPLE	グウ		501
+1875	隅	NOOK	グウ	すみ	501
+1876	隙	CREVICE	ゲキ	すき	501
+1877	遇	TREAT ・ ENCOUNTER	グウ	あ.う*	502
+1878	愚	FOOLISH	グ	おろ.か	502
+1879	曹	SERGEANT	ソウ		502
+1880	遭	MEET WITH	ソウ	あ.う ・ あ.わせる	502
+1881	槽	TUB	ソウ		503
+1882	妨	HINDER	ボウ	さまた.げる	503
+1883	坊	SONNY BOY ・ COLLOQUIAL PERSON SUFFIX	ボウ ・ ボッ-		503
+1884	傍	BESIDE	ボウ	かたわ.ら ・ そば*	503
+1885	於	AT	オ	おい.て ・ お.ける	504
+1886	房	CHAMBER ・ TUFT	ボウ	ふさ	504
+1887	扇	FAN	セン	おうぎ	504
+1888	扉	HINGED DOOR	ヒ	とびら	504
+1889	雇	EMPLOY	コ	やと.う	505
+1890	顧	LOOK BACK ON	コ	かえり.みる	505
+1891	屑	SCRAPS		くず	505
+1892	糞	DROPPINGS	フン	くそ	505
+1893	尿	URINE	ニョウ		506
+1894	泌	SECRETE	ヒツ ・ ヒ		506
+1895	尻	BUTTOCKS		しり	506
+1896	炉	FURNACE	ロ		506
+1897	窯	KILN	ヨウ	かま	507
+1898	釜	IRON POT		かま	507
+1899	爺	OLD MAN	ヤ	じい ・ じじ ・ じじい ・ おやじ	507
+1900	窪	SINK	ワ	くぼ.む ・ くぼ.まる ・ くぼ	507
+1901	佳	FINE	カ		508
+1902	涯	FAR END	ガイ		508
+1903	暇	FREE TIME	カ	ひま	508
+1904	霞	MIST	カ	かすみ ・ かす.む	508
+1905	雰	ATMOSPHERE	フン		509
+1906	霧	FOG	ム	きり	509
+1907	露	DEW ・ EXPOSE	ロ ・ ロウ	つゆ	509
+1908	霜	FROST	ソウ	しも	509
+1909	箱	BOX		はこ	510
+1910	籍	REGISTER	セキ		510
+1911	貫	PENETRATE	カン	つらぬ.く	510
+1912	慣	HABITUAL PRACTICE	カン	な.れる ・ な.らす	510
+1913	頂	SUMMIT ・ RECEIVE HUMBLY	チョウ	いただ.く ・ いただき	511
+1914	戴	RECEIVE HUMBLY	タイ ・ ダイ*	いただ.く*	511
+1915	項	CLAUSE	コウ		511
+1916	頃	TIME ・ ABOUT		ころ ・ ごろ ・ -ごろ	511
+1917	傾	INCLINE	ケイ	かたむ.く ・ かたむ.ける ・ かし.げる*	512
+1918	頑	STUBBORN	ガン		512
+1919	頒	DISTRIBUTE WIDELY	ハン		512
+1920	頓	SUDDENLY	トン	とみ*	512
+1921	顕	MANIFEST	ケン		513
+1922	領	DOMINION	リョウ		513
+1923	頻	REPEATEDLY	ヒン	しきり*	513
+1924	捗	MAKE PROGRESS	チョク	はかど.る*	513
+1925	順	ORDER ・ OBEY	ジュン		514
+1926	馴	GET USED TO	ジュン	な.れる ・ な.らす	514
+1927	訓	INSTRUCT	クン		514
+1928	須	MUST	ス ・ シュ*		514
+1929	額	AMOUNT ・ PICTURE FRAME ・ FOREHEAD	ガク	ひたい	515
+1930	頼	RELY ON ・ ASK	ライ	たの.む ・ たの.もしい ・ たよ.る	515
+1931	瀬	SHALLOWS		せ	515
+1932	峡	GORGE	キョウ		515
+1933	狭	NARROW	キョウ	せま.い ・ せば.める ・ せば.まる	516
+1934	挟	HOLD BETWEEN	キョウ	はさむ	516
+1935	頰	CHEEKS	キョウ*	ほお ・ ほほ	516
+1936	顎	JAW	ガク	あご	516
+1937	煩	VEXING	ハン ・ ボン	わずら.う ・ わずら.わす	517
+1938	串	SKEWER		くし	517
+1939	患	AFFECTED BY DISEASE	カン	わずら.う	517
+1940	疾	DISEASE ・ FAST	シツ		517
+1941	痴	STUPID ・ INFATUATED	チ		518
+1942	疫	EPIDEMIC	エキ ・ ヤク		518
+1943	痢	DIARRHEA	リ		518
+1944	痘	SMALLPOX	トウ		518
+1945	瘍	ULCER	ヨウ		519
+1946	癌	CANCER	ガン		519
+1947	痩	BECOME THIN	ソウ	や.せる	519
+1948	疲	TIRED	ヒ	つか.れる ・ -ずか.れ	519
+1949	被	BE SUBJECTED TO	ヒ	こうむ.る	520
+1950	披	OPEN OUT	ヒ		520
+1951	抜	PULL OUT ・ STAND OUT	バツ	ぬ.く ・ -ぬ.く ・ ぬ.き ・ ぬ.ける ・ ぬ.かす ・ ぬ.かる	520
+1952	控	HOLD BACK	コウ	ひか.える ・ ひか.え	520
+1953	扶	LEND SUPPORT TO	フ		521
+1954	抹	WIPE	マツ		521
+1955	拓	OPEN UP	タク		521
+1956	拷	TORTURE	ゴウ		521
+1957	楼	TALL BUILDING	ロウ		522
+1958	壇	PLATFORM	ダン ・ タン		522
+1959	塔	TOWER	トウ		522
+1960	搭	LOAD ON BOARD	トウ		522
+1961	寡	FEW ・ WIDOW(ER)	カ		523
+1962	賓	GUEST	ヒン		523
+1963	飾	DECORATE	ショク	かざ.る ・ かざ.り	523
+1964	飽	SATIATED	ホウ	あ.きる ・ あ.かす	523
+1965	餓	STARVE	ガ		524
+1966	飢	STARVE	キ	う.える	524
+1967	机	DESK	キ	つくえ	524
+1968	冗	REDUNDANT	ジョウ		524
+1969	冠	CROWN	カン	かんむり	525
+1970	離	SEPARATE	リ	はな.れる ・ はな.す	525
+1971	胸	CHEST	キョウ	むね ・ むな-	525
+1972	悩	SUFFER	ノウ	なや.む ・ なや.ます	525
+1973	脳	BRAIN	ノウ		526
+1974	臓	INTERNAL ORGAN	ゾウ		526
+1975	胃	STOMACH	イ		526
+1976	炎	FLAME ・ INFLAMMATION	エン	ほのお	526
+1977	談	TALK	ダン		527
+1978	淡	LIGHT	タン	あわ.い	527
+1979	災	NATURAL CALAMITY	サイ	わざわ.い	527
+1980	肝	LIVER	カン	きも	527
+1981	肺	LUNG	ハイ		528
+1982	胆	GALLBLADDER	タン		528
+1983	腺	GLAND	セン		528
+1984	胞	MEMBRANOUS SAC	ホウ		528
+1985	腸	INTESTINES	チョウ		529
+1986	胎	WOMB ・ FETUS	タイ		529
+1987	腰	WAIST	ヨウ	こし	529
+1988	肘	ELBOW		ひじ	529
+1989	膝	KNEE	シツ*	ひざ	530
+1990	股	CROTCH	コ	また	530
+1991	肢	LIMB	シ		530
+1992	胴	TRUNK	ドウ		530
+1993	脇	ARMPIT ・ ASIDE	キョウ*	わき ・ わけ	531
+1994	脂	FAT	シ	あぶら	531
+1995	詣	VISIT A TEMPLE	ケイ	もう.で ・ もうで ・ もう.でる	531
+1996	肪	ANIMAL FAT	ボウ		531
+1997	肌	SKIN		はだ	532
+1998	膚	SKIN	フ		532
+1999	慮	CONSIDER	リョ		532
+2000	虐	CRUEL	ギャク	しいた.げる	532
+2001	虞	RISK		おそれ	533
+2002	劇	DRAMA	ゲキ		533
+2003	虚	EMPTY ・ FALSE	キョ ・ コ		533
+2004	虜	CAPTIVE	リョ		533
+2005	勇	BRAVE	ユウ	いさ.む	534
+2006	湧	WELL UP	ユウ	わ.く	534
+2007	戯	SPORT	ギ	たわむ.れる	534
+2008	繊	FINE ・ FIBER	セン		534
+2009	緻	FINE	チ		535
+2010	嘘	LIE	キョ	うそ	535
+2011	噂	RUMOR	ソン	うわさ	535
+2012	樽	BARREL	ソン	たる	535
+2013	距	DISTANCE	キョ		536
+2014	拒	REFUSE	キョ	こば.む	536
+2015	嬉	GLAD	キ	うれ.しい	536
+2016	鼓	DRUM	コ	つずみ	536
+2017	樹	STANDING TREE	ジュ		537
+2018	膨	EXPAND	ボウ	ふく.らむ ・ ふく.れる	537
+2019	脹	SWELL	チョウ		537
+2020	張	SPREAD ・ STRAIN	チョウ	は.る ・ -は.り ・ -ば.り	537
+2021	帳	NOTEBOOK	チョウ		538
+2022	腫	TUMOR	シュ	は.れる ・ は.らす	538
+2023	肥	FATTEN	ヒ	こ.える ・ こえ ・ こ.やす ・ こ.やし	538
+2024	把	GRIP	ハ ・ ワ		538
+2025	誇	BOAST	コ	ほこ.る	539
+2026	覧	LOOK OVER	ラン		539
+2027	監	OVERSEE	カン		539
+2028	鑑	APPRAISE ・ REFER TO	カン	かんが.みる	539
+2029	艦	WARSHIP	カン		540
+2030	濫	EXCESSIVE	ラン		540
+2031	藍	INDIGO	ラン	あい	540
+2032	賢	WISE	ケン	かしこ.い	540
+2033	腎	KIDNEY	ジン		541
+2034	堅	FIRM	ケン	かた.い ・ -がた.い	541
+2035	緊	TIGHTEN ・ EXIGENT	キン		541
+2036	勃	SUDDENLY RISING	ボツ		541
+2037	励	WORK HARD	レイ	はげ.む ・ はげ.ます	542
+2038	栃	HORSE CHESTNUT		とち	542
+2039	茨	BRIER		いばら	542
+2040	羨	ENVIOUS	セン	うらや.む ・ うらや.ましい	542
+2041	歳	YEAR ・ -YEARS OLD	サイ ・ セイ		543
+2042	戚	KIN	セキ		543
+2043	叔	YOUNGER SIBLING OF PARENT	シュク		543
+2044	淑	GRACEFUL	シュク		543
+2045	寂	LONESOME	ジャク ・ セキ	さび ・ さび.しい ・ さび.れる	544
+2046	督	SUPERVISE ・ COMMANDER	トク		544
+2047	奴	SLAVE ・ GUY	ド	やつ*	544
+2048	努	EXERT	ド	つと.める	544
+2049	怒	GET ANGRY	ド	いか.る ・ おこ.る	545
+2050	隷	UNDERLING	レイ		545
+2051	款	ARTICLE ・ FRIENDLY RELATIONS	カン		545
+2052	殻	HUSK	カク	から ・ がら	545
+2053	穀	GRAIN	コク		546
+2054	臼	MORTAR	キュウ	うす	546
+2055	毀	BREAK	キ	こぼ.れる* ・ こわ.れる*	546
+2056	廉	HONEST ・ CHEAP	レン		546
+2057	鎌	SICKLE		かま	547
+2058	嫌	DISLIKE	ケン ・ ゲン	きら.う ・ きら.い ・ いや	547
+2059	謙	HUMBLE	ケン		547
+2060	遜	HUMBLE	ソン		547
+2061	亀	TURTLE	キ	かめ	548
+2062	練	TRAIN	レン	ね.る ・ ね.り-	548
+2063	錬	REFINE	レン		548
+2064	鍛	FORGE	タン	きた.える	548
+2065	鉱	ORE ・ MINE	コウ		549
+2066	銅	COPPER	ドウ		549
+2067	鉛	LEAD	エン	なまり	549
+2068	銑	PIG IRON	セン		549
+2069	鋼	STEEL	コウ	はがね	550
+2070	剛	TOUGH	ゴウ		550
+2071	綱	ROPE ・ MAIN POINTS	コウ	つな	550
+2072	網	NET	モウ	あみ	550
+2073	縄	ROPE	ジョウ	なわ	551
+2074	鉢	BOWL	ハチ ・ ハツ		551
+2075	鎖	CHAIN	サ	くさり	551
+2076	絆	BONDS	ハン ・ バン	きずな	551
+2077	鍵	KEY	ケン	かぎ	552
+2078	釘	NAIL	テイ	くぎ	552
+2079	錮	LOCK DOWN	コ		552
+2080	錠	LOCK ・ PILL	ジョウ		552
+2081	綻	COME APART AT THE SEAMS	タン	ほころ.びる	553
+2082	鈴	BELL	レイ ・ リン	すず	553
+2083	鐘	BELL	ショウ	かね	553
+2084	瞳	PUPIL	ドウ	ひとみ	553
+2085	憧	YEARN AFTER	ショウ ・ ドウ*	あこが.れる	554
+2086	憬	YEARN AFTER	ケイ		554
+2087	卑	MEAN	ヒ	いや.しい ・ いや.しむ ・ いや.しめる	554
+2088	碑	MONUMENT	ヒ		554
+2089	痺	PARALYSIS	ヒ	しび.れる	555
+2090	鬼	DEMON	キ	おに ・ おに-	555
+2091	塊	LUMP	カイ	かたまり	555
+2092	醜	UGLY	シュウ	みにく.い	555
+2093	魂	SOUL	コン	たましい	556
+2094	魅	CHARM	ミ		556
+2095	魔	DEMON	マ		556
+2096	畏	FEAR	イ	おそ.れ ・ おそ.れる	556
+2097	刷	PRINT	サツ	す.る ・ -ず.り ・ -ずり	557
+2098	擦	RUB	サツ	す.る ・ す.れる ・ -ず.れ	557
+2099	摩	RUB AGAINST	マ		557
+2100	磨	POLISH	マ	みが.く	557
+2101	凹	CONCAVE	オウ		558
+2102	凸	CONVEX	トツ		558
+2103	奉	DEDICATE	ホウ ・ ブ	たてまつ.る	558
+2104	奏	PLAY MUSIC	ソウ	かな.でる	558
+2105	泰	TRANQUIL	タイ		559
+2106	俸	SALARY	ホウ		559
+2107	棒	ROD	ボウ		559
+2108	捧	DEDICATE	ホウ	ささ.げる	559
+2109	耐	WITHSTAND	タイ	た.える	560
+2110	霊	SPIRIT	レイ ・ リョウ	たま	560
+2111	需	DEMAND	ジュ		560
+2112	濡	WET	ジュ	ぬ.れる ・ ぬ.らす	560
+2113	儒	CONFUCIANISM	ジュ		561
+2114	端	EDGE	タン	はし ・ は ・ はた ・ -ばた	561
+2115	壱	ONE	イチ		561
+2116	尼	BUDDHIST NUN	ニ	あま	561
+2117	泥	MUD	デイ	どろ	562
+2118	漏	LEAK	ロウ	も.る ・ も.れる ・ も.らす	562
+2119	氾	FLOOD	ハン		562
+2120	彙	CATALOG	イ		562
+2121	某	A CERTAIN	ボウ		563
+2122	謀	SCHEME	ボウ ・ ム	はか.る	563
+2123	媒	MEDIATE	バイ		563
+2124	尉	OFFICER	イ		563
+2125	慰	CONSOLE	イ	なぐさ.める ・ なぐさ.む	564
+2126	酪	DAIRY PRODUCTS	ラク		564
+2127	酵	FERMENT	コウ		564
+2128	醤	SOY SAUCE	ショウ		564
+2129	酢	VINEGAR	サク	す	565
+2130	酎	&lt;SHOCHU&gt; (japanese distilled liquor)	チュウ		565
+2131	酌	POUR WINE	シャク	く.む	565
+2132	釣	ANGLE	チョウ	つ.る ・ つ.り ・ つ.り-	565
+2133	畜	(RAISE) LIVESTOCK	チク		566
+2134	蓄	STORE UP	チク	たくわ.える	566
+2135	玄	PROFOUND	ゲン		566
+2136	眩	DAZZLING	ゲン	くるめ.く ・ まぶ.しい ・ まばゆ.い	566
+2137	呟	MUTTER	ゲン	つぶや.く	567
+2138	囁	WHISPER		ささや.く	567
+2139	喋	SPEAK	チョウ	しゃべ.る	567
+2140	喩	LIKEN	ユ		567
+2141	鬱	DEPRESSION ・ CONGESTED	ウツ		568
+2142	弦	STRING	ゲン	つる	568
+2143	舷	GUNWALE	ゲン		568
+2144	舵	RUDDER	ダ	かじ	568
+2145	幻	PHANTOM	ゲン	まぼろし	569
+2146	幽	QUIET AND SECLUDED	ユウ		569
+2147	幼	VERY YOUNG	ヨウ	おさな.い	569
+2148	稚	CHILD	チ		569
+2149	維	FIBER	イ		570
+2150	推	INFER ・ PUSH FORWARD	スイ	お.す	570
+2151	堆	PILE UP	タイ	うずたか.い*	570
+2152	椎	SPINE ・ CHINQUAPIN	ツイ	しい*	570
+2153	脊	SPINE	セキ		571
+2154	雛	CHICK	スウ ・ ジュ	ひな ・ ひよこ	571
+2155	誰	WHO		だれ	571
+2156	唯	MERELY	ユイ ・ イ		571
+2157	鳴	CRY ・ SOUND	メイ	な.く ・ な.る ・ な.らす	572
+2158	亥	THE BOAR	ガイ	い	572
+2159	刻	ENGRAVE ・ POINT IN TIME	コク	きざ.む ・ きざ.み	572
+2160	劾	EXPOSE CRIMES	ガイ		572
+2161	核	NUCLEUS	カク		573
+2162	骸	BODY	ガイ		573
+2163	咳	COUGH	ガイ	せき ・ せ.く	573
+2164	該	CORRESPOND TO	ガイ		573
+2165	診	EXAMINE A PATIENT	シン	み.る	574
+2166	珍	RARE	チン	めずら.しい	574
+2167	瓦	TILE	ガ	かわら	574
+2168	併	PUT TOGETHER	ヘイ	あわ.せる	574
+2169	瓶	BOTTLE	ビン		575
+2170	屏	FENCE	ビョウ ・ ヘイ		575
+2171	塀	FENCE	ヘイ		575
+2172	餅	RICE CAKE	ヘイ	もち	575
+2173	餌	FEED ・ BAIT	ジ	え ・ えさ	576
+2174	呑	SWALLOW	ドン	の.む	576
+2175	沃	FERTILITY	ヨク		576
+2176	妖	BEWITCHING	ヨウ	あや.しい	576
+2177	呪	CHARM	ジュ	のろ.う ・ まじな.う*	577
+2178	艶	CHARMING ・ ROMANCE	エン	つや ・ なま.めかしい* ・ あで.やか*	577
+2179	慈	AFFECTIONATE	ジ	いつく.しむ	577
+2180	滋	NOURISH	ジ		577
+2181	磁	MAGNETISM	ジ		578
+2182	擁	EMBRACE	ヨウ		578
+2183	腐	ROT	フ	くさ.る ・ -くさ.る ・ くさ.れる ・ くさ.れ ・ くさ.らす	578
+2184	芯	CORE	シン		578
+2185	蒔	SOW	ジ ・ シ	ま.く	579
+2186	撒	SCATTER	サン ・ サツ	ま.く	579
+2187	撤	WITHDRAW	テツ		579
+2188	徹	GO THROUGH	テツ		579
+2189	微	SLIGHT	ビ	かす.か*	580
+2190	徴	LEVY ・ SIGN	チョウ		580
+2191	懲	CHASTISE	チョウ	こ.りる ・ こ.らす ・ こ.らしめる	580
+2192	殆	ALMOST	タイ ・ ダイ	ほとん.ど ・ ほとほと	580
+2193	后	EMPRESS	コウ		581
+2194	垢	DIRT	コウ ・ ク	あか	581
+2195	妃	PRINCESS	ヒ		581
+2196	姫	DAUGHTER OF NOBLE BIRTH		ひめ ・ ひめ-	581
+2197	如	AS	ジョ ・ ニョ	ごと.し*	582
+2198	茹	BOIL	ジョ	ゆ.でる ・ う.でる	582
+2199	婿	SON-IN-LAW	セイ	むこ	582
+2200	娘	DAUGHTER ・ GIRL		むすめ	582
+2201	嫁	WED A MAN ・ BRIDE	カ	よめ ・ とつ.ぐ	583
+2202	稼	WORK	カ	かせ.ぐ	583
+2203	塚	MOUND		つか ・ -ずか	583
+2204	豪	GREAT MAN ・ MAGNIFICENT	ゴウ		583
+2205	蒙	IGNORANCE ・ PHONETIC [MÔ]	モウ		584
+2206	墾	CLEAR LAND FOR FARMING	コン		584
+2207	懇	FAMILIAR ・ EARNEST	コン	ねんご.ろ	584
+2208	貌	APPEARANCE	ボウ		584
+2209	逐	DRIVE OUT ・ ONE BY ONE	チク		585
+2210	遂	ACCOMPLISH	スイ	と.げる ・ つい.に*	585
+2211	墜	DROP DOWN	ツイ		585
+2212	堕	DEGENERATE	ダ		585
+2213	随	FOLLOW	ズイ		586
+2214	附	ATTACH	フ		586
+2215	髄	MARROW	ズイ		586
+2216	怠	IDLE	タイ	おこた.る ・ なま.ける	586
+2217	惰	LAZY	ダ		587
+2218	佐	ASSIST ・ FIELD OFFICER	サ		587
+2219	玩	PLAY WITH	ガン	もてあそ.ぶ*	587
+2220	弄	PLAY WITH	ロウ	もてあそ.ぶ	587
+2221	嘲	RIDICULE	チョウ	あざけ.る	588
+2222	奔	RUSH	ホン		588
+2223	弊	EVIL PRACTICE	ヘイ		588
+2224	幣	CURRENCY ・ SHINTO PAPER OFFERING	ヘイ		588
+2225	蔽	COVER	ヘイ		589
+2226	朋	COMRADE	ホウ	とも	589
+2227	棚	SHELF		たな ・ -だな	589
+2228	柵	FENCE	サク		589
+2229	桁	DIGIT ・ BEAM		けた	590
+2230	栓	STOPPER	セン		590
+2231	詮	INQUIRY	セン		590
+2232	塞	PLUG UP	ソク ・ サイ	ふさ.ぐ ・ ふさ.がる	590
+2233	梗	BLOCK	コウ		591
+2234	柿	PERSIMMON	シ*	かき	591
+2235	藤	WISTERIA	トウ	ふじ	591
+2236	騰	RISE	トウ		591
+2237	謄	TRANSCRIBE	トウ		592
+2238	麺	NOODLES	メン		592
+2239	拉	KIDNAP	ラ		592
+2240	晃	DAZZLING	コウ		592
+2241	幌	AWNING	コウ	ほろ	593
+2242	厘	&lt;RIN&gt; (0.001 yen)	リン		593
+2243	畝	&lt;SE&gt; (RIDGE)		うね	593
+2244	匁	&lt;MONME&gt; (3.75 grams)		もんめ	593
+2245	匂	SMELL		にお.う ・ にお.い ・ にお.わせる	594
+2246	勾	BENT	コウ		594
+2247	挨	GREET	アイ		594
+2248	拶	GREET	サツ		594
+2249	曖	NOT CLEAR	アイ		595
+2250	昧	DARK	マイ		595
+2251	瑠	LAPIS LAZULI	ル		595
+2252	璃	GLASSY SUBSTANCE	リ		595
+2253	嫉	ENVY	シツ		596
+2254	妬	ENVY	ト	ねた.む	596
+2255	鹿	DEER		しか ・ か	596
+2256	塵	DUST	ジン	ちり ・ ごみ	596
+2257	麓	FOOT OF A MOUNTAIN	ロク	ふもと	597
+2258	麗	OF GRACEFUL BEAUTY	レイ	うるわ.しい	597
+2259	薦	RECOMMEND	セン	すす.める	597
+2260	慶	FELICITATION	ケイ		597
+2261	兜	HELMET	トウ ・ ト	かぶと	598
+2262	睨	GLARE AT	ゲイ	にら.む	598
+2263	鼠	RAT	ソ	ねずみ ・ ねず	598
+2264	溺	DROWN	デキ	おぼ.れる	598
+2265	潟	LAGOON		かた ・ -がた	599
+2266	濁	TURBID	ダク	にご.る ・ にご.す	599
+2267	渇	RUN DRY ・ THIRST	カツ	かわ.く	599
+2268	褐	BROWN	カツ		599
+2269	葛	KUDZU	カツ	くず	600
+2270	喝	SHOUT AT	カツ		600
+2271	謁	BE GRANTED AN AUDIENCE	エツ		600
+2272	掲	PUT UP	ケイ	かか.げる	600
+2273	戌	THE DOG	ジュツ	いぬ	601
+2274	尤	REASONABLE	ユウ	もっと.も	601
+2275	駄	GOOD FOR NOTHING ・ CLOGS	ダ ・ タ*		601
+2276	駒	HORSE ・ CHESS PIECE		こま	601
+2277	篤	SERIOUS ・ KIND	トク		602
+2278	罵	SPEAK ILL OF	バ	ののし.る	602
+2279	蔑	SCORN	ベツ	さげす.む ・ ないがし.ろ*	602
+2280	罠	TRAP		わな	602
+2281	烏	RAVEN	ウ ・ ウウ ・ オ	からす	603
+2282	鴨	DUCK	オウ	かも	603
+2283	鳩	PIGEON	キュウ	はと	603
+2284	鶏	CHICKEN	ケイ	にわとり	603
+2285	渓	RAVINE	ケイ		604
+2286	鷹	HAWK	ヨウ ・ オウ	たか	604
+2287	鷲	EAGLE	シュウ	わし	604
+2288	璽	IMPERIAL SEAL	ジ		604
+2289	爽	REFRESHING	ソウ	さわ.やか	605
+2290	綴	STITCH TOGETHER ・ COMPOSE	テイ ・ テツ	と.じる ・ つず.る	605
+2291	桑	MULBERRY	ソウ	くわ	605
+2292	蚕	SILKWORM	サン	かいこ	605
+2293	蛋	EGG	タン		606
+2294	蟹	CRAB	カイ	かに	606
+2295	蚊	MOSQUITO		か	606
+2296	巳	THE SERPENT	シ	み	606
+2297	蛇	SNAKE	ジャ ・ ダ	へび	607
+2298	繭	COCOON	ケン	まゆ	607
+2299	蝶	BUTTERFLY	チョウ		607
+2300	虹	RAINBOW	コウ*	にじ	607
